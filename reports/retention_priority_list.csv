@@ -1,0 +1,2001 @@
+CustomerId,ChurnProbability,RiskTier,RetentionAction,Balance,NumOfProducts,IsActiveMember,Age,Geography
+15703793,0.996,High,Priority outreach,133745.44,4,0,58,Germany
+15806808,0.993,High,Priority outreach,112281.6,3,0,57,Germany
+15589017,0.991,High,Priority outreach,111362.76,3,0,55,Germany
+15696989,0.988,High,Priority outreach,139493.25,3,0,52,Germany
+15634551,0.985,High,Priority outreach,115248.11,4,0,46,Germany
+15719508,0.983,High,Priority outreach,121205.15,4,1,49,Germany
+15647898,0.974,High,Priority outreach,130554.51,3,0,50,Spain
+15655082,0.974,High,Priority outreach,112070.86,3,0,48,France
+15779176,0.972,High,Priority outreach,108888.24,3,1,58,Germany
+15624180,0.97,High,Priority outreach,134171.8,4,1,37,Germany
+15668283,0.967,High,Priority outreach,118317.27,4,0,48,France
+15679770,0.966,High,Priority outreach,131583.59,4,1,61,France
+15692750,0.963,High,Priority outreach,129818.39,3,0,45,Germany
+15595324,0.958,High,Priority outreach,117833.3,3,0,39,Germany
+15775318,0.956,High,Priority outreach,154962.99,3,1,51,Spain
+15679249,0.954,High,Priority outreach,163146.46,1,0,57,Germany
+15622033,0.954,High,Priority outreach,101543.51,4,0,41,Germany
+15750335,0.951,High,Priority outreach,108508.82,3,0,43,Germany
+15786196,0.949,High,Priority outreach,105770.7,3,0,44,France
+15606641,0.949,High,Priority outreach,100260.88,3,1,56,Germany
+15757408,0.948,High,Priority outreach,250898.09,3,1,38,Spain
+15720559,0.942,High,Priority outreach,110368.03,1,0,61,Germany
+15712551,0.94,High,Priority outreach,116922.25,1,0,58,Germany
+15793307,0.938,High,Priority outreach,142880.28,3,0,41,Spain
+15625824,0.937,High,Priority outreach,121345.88,4,0,30,Spain
+15663410,0.936,High,Priority outreach,135506.58,3,1,51,Spain
+15583392,0.933,High,Priority outreach,135776.36,3,0,37,Germany
+15638610,0.929,High,Priority outreach,117325.54,1,0,65,Germany
+15781272,0.925,High,Priority outreach,149713.61,3,1,50,France
+15811690,0.924,High,Priority outreach,128966.13,1,0,54,Germany
+15764604,0.92,High,Priority outreach,164769.02,3,0,35,France
+15655123,0.92,High,Priority outreach,131355.3,3,0,45,Spain
+15805260,0.918,High,Priority outreach,143249.67,1,0,56,Germany
+15769246,0.917,High,Priority outreach,135078.41,1,0,59,Germany
+15653937,0.916,High,Priority outreach,123916.67,1,0,53,Germany
+15654733,0.914,High,Priority outreach,117056.46,1,0,57,Germany
+15734008,0.908,High,Priority outreach,152581.06,1,0,59,Germany
+15768451,0.908,High,Priority outreach,149131.03,3,1,40,Germany
+15695339,0.907,High,Priority outreach,109172.88,1,0,53,Germany
+15568032,0.899,High,Priority outreach,127320.36,3,0,31,Germany
+15815490,0.899,High,Priority outreach,164948.98,3,0,40,Germany
+15811588,0.887,High,Priority outreach,187602.18,1,0,53,Spain
+15625426,0.886,High,Priority outreach,161608.81,1,0,55,Germany
+15662098,0.885,High,Priority outreach,128808.65,3,0,41,Spain
+15642391,0.883,High,Priority outreach,109978.83,1,0,51,Germany
+15702095,0.88,High,Priority outreach,128472.8,1,0,56,Spain
+15640507,0.857,High,Priority outreach,119349.69,3,1,35,Spain
+15698732,0.843,High,Priority outreach,104677.09,1,0,51,Germany
+15724321,0.838,High,Priority outreach,128298.74,1,0,47,Germany
+15743293,0.836,High,Priority outreach,163700.78,3,1,35,Germany
+15594408,0.828,High,Priority outreach,213146.2,1,0,48,Spain
+15751491,0.824,High,Priority outreach,117206.3,1,0,50,Germany
+15811343,0.821,High,Priority outreach,161591.11,3,1,35,Germany
+15591169,0.819,High,Priority outreach,137455.99,1,0,49,Germany
+15646764,0.818,High,Priority outreach,119024.75,2,0,58,Germany
+15724154,0.817,High,Priority outreach,128504.76,1,0,49,Germany
+15647842,0.816,High,Priority outreach,120782.7,1,0,48,Germany
+15793049,0.816,High,Priority outreach,115115.38,1,0,48,Germany
+15651581,0.814,High,Priority outreach,112595.85,1,0,68,Germany
+15699523,0.809,High,Priority outreach,126817.65,2,0,55,Germany
+15618255,0.808,High,Priority outreach,103244.86,2,0,56,Germany
+15787318,0.806,High,Priority outreach,103163.35,1,0,47,Germany
+15806049,0.803,High,Priority outreach,140510.89,1,0,49,Germany
+15668575,0.802,High,Priority outreach,148610.41,3,1,26,Spain
+15708063,0.793,High,Priority outreach,100749.5,3,0,36,France
+15690829,0.783,High,Priority outreach,137115.16,1,0,49,Germany
+15624519,0.779,High,Priority outreach,97092.87,1,0,49,Germany
+15738148,0.779,High,Priority outreach,122522.32,1,0,51,France
+15718057,0.776,High,Priority outreach,100946.71,1,0,51,France
+15616152,0.775,High,Priority outreach,185513.67,1,0,47,France
+15677921,0.772,High,Priority outreach,115920.62,2,0,60,Germany
+15677796,0.763,High,Priority outreach,129289.98,1,0,47,Germany
+15813067,0.762,High,Priority outreach,110219.14,1,0,45,Germany
+15770995,0.762,High,Priority outreach,131160.85,1,0,47,Germany
+15628600,0.762,High,Priority outreach,141069.18,3,1,31,Germany
+15646372,0.758,High,Priority outreach,135842.41,1,0,66,France
+15654859,0.737,High,Priority outreach,131629.17,2,0,63,Spain
+15769703,0.737,High,Priority outreach,111257.59,1,0,45,Germany
+15677105,0.735,High,Priority outreach,105214.58,1,0,46,Germany
+15595842,0.731,High,Priority outreach,119852.01,1,0,45,Germany
+15740442,0.722,High,Priority outreach,186825.57,1,0,51,France
+15607537,0.72,High,Priority outreach,107850.82,1,0,46,Germany
+15632816,0.713,High,Priority outreach,127948.57,1,1,49,Germany
+15768163,0.709,High,Priority outreach,137145.12,1,0,46,Germany
+15706163,0.705,High,Priority outreach,113625.93,1,0,46,Germany
+15745533,0.704,High,Priority outreach,110314.21,2,0,63,France
+15591986,0.697,High,Priority outreach,141078.37,1,0,46,Germany
+15772329,0.696,High,Priority outreach,103741.14,1,0,45,Germany
+15578297,0.696,High,Priority outreach,125537.38,1,0,43,Germany
+15587210,0.694,High,Priority outreach,113581.98,1,0,44,Germany
+15724336,0.69,High,Priority outreach,171601.27,1,0,49,Germany
+15672374,0.689,High,Priority outreach,170008.84,1,0,52,France
+15756804,0.688,High,Priority outreach,170833.46,1,0,48,France
+15673238,0.688,High,Priority outreach,154110.99,2,0,59,Germany
+15785705,0.686,High,Priority outreach,106731.58,1,0,44,Germany
+15681206,0.686,High,Priority outreach,168197.66,1,0,49,France
+15602010,0.681,High,Priority outreach,103909.86,1,0,45,Germany
+15797751,0.681,High,Priority outreach,102085.72,1,1,47,Germany
+15665222,0.679,High,Priority outreach,121161.57,1,0,52,Spain
+15693764,0.675,High,Priority outreach,136298.65,1,0,52,Spain
+15654456,0.666,High,Priority outreach,149726.08,1,0,48,Germany
+15730793,0.662,High,Priority outreach,111009.32,1,1,54,Germany
+15749103,0.658,High,Priority outreach,118907.6,1,1,47,Germany
+15706534,0.653,High,Priority outreach,122949.14,1,0,47,France
+15687491,0.639,High,Priority outreach,101207.75,1,0,45,Germany
+15692142,0.636,High,Priority outreach,105086.74,1,1,48,Germany
+15761497,0.636,High,Priority outreach,163760.82,1,0,48,Spain
+15650538,0.632,High,Priority outreach,168286.58,1,0,48,Germany
+15661821,0.63,High,Priority outreach,132571.67,1,1,49,Germany
+15789611,0.625,High,Priority outreach,150836.92,1,0,46,Germany
+15775905,0.617,High,Priority outreach,130024.87,1,1,47,Germany
+15805303,0.602,High,Priority outreach,141136.62,1,0,44,Germany
+15774630,0.6,High,Priority outreach,142802.02,1,1,47,Germany
+15713347,0.6,Medium,Priority outreach,179852.26,1,0,48,Spain
+15707322,0.597,Medium,Priority outreach,115290.27,1,0,48,France
+15738605,0.585,Medium,Priority outreach,123642.36,1,1,46,Germany
+15711299,0.585,Medium,Priority outreach,145262.54,1,1,52,Germany
+15615797,0.584,Medium,Priority outreach,108585.35,1,1,59,Germany
+15755196,0.581,Medium,Priority outreach,131394.56,1,0,49,France
+15699325,0.579,Medium,Priority outreach,114822.64,1,1,62,Germany
+15747323,0.578,Medium,Priority outreach,109472.47,1,0,48,Spain
+15789563,0.577,Medium,Priority outreach,111288.18,1,1,46,Germany
+15646859,0.574,Medium,Priority outreach,107363.29,1,1,47,Germany
+15567778,0.574,Medium,Priority outreach,144027.8,1,1,54,Germany
+15615430,0.574,Medium,Priority outreach,129646.91,1,1,55,Germany
+15776939,0.571,Medium,Priority outreach,102290.56,2,0,48,Germany
+15809826,0.569,Medium,Priority outreach,109705.52,1,0,46,France
+15796993,0.565,Medium,Priority outreach,171236.3,2,0,52,France
+15711251,0.564,Medium,Priority outreach,178827.79,1,0,45,France
+15760085,0.562,Medium,Priority outreach,126384.42,1,1,48,Germany
+15627484,0.559,Medium,Priority outreach,113328.93,1,0,47,France
+15566211,0.556,Medium,Priority outreach,103560.57,1,0,41,Germany
+15620268,0.556,Medium,Priority outreach,212696.32,1,0,43,Germany
+15654673,0.555,Medium,Priority outreach,173434.9,1,0,49,France
+15714575,0.547,Medium,Priority outreach,107926.02,1,1,44,Germany
+15629078,0.546,Medium,Priority outreach,127258.79,1,1,45,Germany
+15640418,0.544,Medium,Priority outreach,115897.73,1,0,41,Germany
+15604130,0.544,Medium,Priority outreach,142319.03,1,0,47,Spain
+15723488,0.544,Medium,Priority outreach,106854.21,1,1,47,Germany
+15808526,0.538,Medium,Priority outreach,127539.3,1,1,58,Germany
+15771569,0.537,Medium,Priority outreach,137367.94,1,1,46,Germany
+15761018,0.533,Medium,Priority outreach,143829.2,2,0,50,Germany
+15608804,0.53,Medium,Priority outreach,133231.48,1,1,49,Germany
+15773972,0.525,Medium,Priority outreach,137104.47,1,0,50,France
+15732643,0.525,Medium,Priority outreach,131955.07,1,1,53,Spain
+15585985,0.525,Medium,Priority outreach,165282.42,1,0,48,France
+15806256,0.525,Medium,Priority outreach,109349.29,1,0,48,France
+15662736,0.524,Medium,Priority outreach,147069.78,1,0,49,France
+15636330,0.52,Medium,Priority outreach,143279.58,2,0,48,Germany
+15809178,0.515,Medium,Priority outreach,146100.75,1,0,42,Germany
+15572547,0.514,Medium,Priority outreach,104930.38,1,0,45,France
+15815040,0.51,Medium,Priority outreach,103362.14,1,1,42,Germany
+15728917,0.507,Medium,Priority outreach,120682.53,1,0,48,France
+15696514,0.505,Medium,Priority outreach,104414.03,1,0,37,Germany
+15763274,0.504,Medium,Priority outreach,120320.54,1,0,48,France
+15668309,0.503,Medium,Priority outreach,111098.85,1,1,40,France
+15612455,0.499,Medium,Priority outreach,124240.93,1,1,45,Germany
+15742116,0.496,Medium,Priority outreach,116711.06,2,0,48,Germany
+15698902,0.495,Medium,Priority outreach,142703.4,1,0,42,Germany
+15637891,0.494,Medium,Priority outreach,140681.68,1,1,43,Germany
+15647266,0.492,Medium,Priority outreach,135923.16,1,0,45,Spain
+15677307,0.489,Medium,Priority outreach,137326.65,1,0,40,Germany
+15715142,0.487,Medium,Priority outreach,102703.62,1,1,45,Germany
+15569247,0.478,Medium,Priority outreach,109679.72,1,1,57,Spain
+15592229,0.478,Medium,Priority outreach,185891.54,1,1,52,France
+15600700,0.474,Medium,Priority outreach,116227.27,1,1,63,Germany
+15580956,0.473,Medium,Priority outreach,115888.04,1,1,43,Germany
+15769389,0.468,Medium,Priority outreach,124723.92,1,0,39,Germany
+15569590,0.46,Medium,Priority outreach,98495.72,1,0,42,Germany
+15730673,0.458,Medium,Priority outreach,122265.24,1,0,40,Germany
+15723717,0.458,Medium,Priority outreach,118334.44,1,0,41,Germany
+15801169,0.457,Medium,Priority outreach,138341.51,1,0,39,Germany
+15707011,0.45,Medium,Priority outreach,137682.68,1,0,47,France
+15585580,0.448,Medium,Priority outreach,167194.36,1,1,52,Germany
+15734578,0.447,Medium,Priority outreach,113537.73,1,1,53,France
+15726494,0.444,Medium,Priority outreach,175303.06,1,0,44,France
+15778320,0.444,Medium,Priority outreach,148495.64,1,0,40,Germany
+15700460,0.439,Medium,Priority outreach,120905.03,1,1,55,France
+15577423,0.438,Medium,Priority outreach,124586.93,1,0,39,Germany
+15579566,0.437,Medium,Priority outreach,120867.18,1,0,43,Spain
+15646535,0.435,Medium,Priority outreach,113226.47,1,0,46,France
+15689201,0.433,Medium,Priority outreach,120108.56,1,1,49,France
+15596339,0.429,Medium,Priority outreach,140014.42,1,1,54,France
+15720284,0.428,Medium,Priority outreach,135927.06,1,0,37,Germany
+15684211,0.418,Medium,Priority outreach,153656.85,1,0,44,Spain
+15619514,0.417,Medium,Priority outreach,120105.43,1,0,40,Germany
+15571193,0.414,Medium,Priority outreach,144386.32,1,1,42,Germany
+15616666,0.413,Medium,Priority outreach,111739.4,2,1,52,Germany
+15786153,0.406,Medium,Priority outreach,137774.11,2,0,47,Germany
+15791111,0.405,Medium,Priority outreach,125724.95,2,0,47,France
+15632118,0.405,Medium,Priority outreach,164450.94,1,0,45,Spain
+15658169,0.405,Medium,Priority outreach,127299.34,2,0,47,Spain
+15617065,0.404,Medium,Priority outreach,194532.66,1,0,42,Spain
+15644878,0.404,Medium,Priority outreach,117302.62,1,0,43,Spain
+15749123,0.403,Medium,Priority outreach,157332.26,1,0,45,Spain
+15769064,0.403,Medium,Priority outreach,135309.36,1,0,39,Germany
+15784736,0.403,Medium,Priority outreach,136855.24,1,0,45,France
+15651713,0.4,Medium,Priority outreach,148071.39,1,0,45,France
+15621768,0.396,Medium,Priority outreach,112994.65,1,0,45,Spain
+15706365,0.393,Medium,Priority outreach,102535.57,1,1,50,France
+15593280,0.391,Medium,Priority outreach,140733.74,1,1,43,Germany
+15801832,0.39,Medium,Priority outreach,117691.0,1,1,42,Germany
+15674433,0.386,Medium,Priority outreach,115265.14,1,0,28,Germany
+15606076,0.385,Medium,Priority outreach,123204.88,1,1,63,Germany
+15735636,0.385,Medium,Priority outreach,121389.78,1,1,53,France
+15803804,0.385,Medium,Priority outreach,103214.71,1,0,35,Germany
+15629273,0.382,Medium,Priority outreach,145177.84,1,0,42,Germany
+15591724,0.381,Medium,Priority outreach,143244.97,1,0,44,France
+15807993,0.378,Medium,Priority outreach,110148.49,1,0,30,Germany
+15698791,0.377,Medium,Priority outreach,146758.24,1,0,45,France
+15723894,0.375,Medium,Priority outreach,137555.44,1,0,45,France
+15728006,0.375,Medium,Priority outreach,180516.9,1,0,40,France
+15623502,0.373,Medium,Priority outreach,98365.33,1,1,56,Spain
+15694039,0.371,Medium,Priority outreach,149003.76,2,0,46,Germany
+15581197,0.369,Medium,Priority outreach,99286.98,1,1,51,France
+15613048,0.368,Medium,Priority outreach,139973.65,1,1,40,Germany
+15715047,0.367,Medium,Priority outreach,172478.15,1,0,43,Spain
+15722611,0.365,Medium,Priority outreach,114233.18,1,1,53,France
+15646817,0.365,Medium,Priority outreach,156773.78,2,0,51,France
+15610930,0.364,Medium,Priority outreach,139979.07,1,0,35,Germany
+15814690,0.362,Medium,Priority outreach,105736.32,1,1,64,Germany
+15711455,0.36,Medium,Priority outreach,109044.6,1,0,36,Germany
+15702442,0.358,Medium,Priority outreach,100781.75,2,1,56,Germany
+15732020,0.356,Medium,Priority outreach,106938.11,2,1,57,Germany
+15625501,0.356,Medium,Priority outreach,127201.58,1,0,38,Germany
+15576216,0.355,Medium,Priority outreach,108862.76,1,0,37,Germany
+15746490,0.354,Medium,Priority outreach,111201.41,1,1,53,Spain
+15713596,0.353,Medium,Priority outreach,107735.93,1,1,62,France
+15574213,0.353,Medium,Priority outreach,158271.74,1,1,53,France
+15627971,0.35,Medium,Priority outreach,206663.75,1,0,32,France
+15646366,0.349,Medium,Priority outreach,120586.54,1,1,41,Germany
+15805955,0.349,Medium,Priority outreach,138333.03,1,1,48,France
+15595153,0.345,Medium,Priority outreach,106022.73,2,0,44,Germany
+15732740,0.344,Medium,Priority outreach,178095.55,1,0,32,Spain
+15653521,0.342,Medium,Priority outreach,104449.8,1,1,40,Germany
+15705890,0.34,Medium,Priority outreach,142072.02,1,0,45,France
+15638989,0.336,Medium,Priority outreach,190066.54,1,0,25,France
+15596379,0.336,Medium,Priority outreach,119695.75,1,1,39,Germany
+15607269,0.334,Medium,Priority outreach,151249.45,2,1,49,Germany
+15614103,0.332,Medium,Priority outreach,119839.69,1,1,42,Germany
+15793478,0.332,Medium,Priority outreach,151391.68,1,0,39,Germany
+15675185,0.332,Medium,Priority outreach,108128.96,2,1,48,Germany
+15804017,0.331,Medium,Priority outreach,123246.7,1,0,33,Germany
+15724623,0.331,Medium,Priority outreach,113034.22,1,0,24,Germany
+15733387,0.331,Medium,Priority outreach,109663.47,1,1,53,Spain
+15651983,0.329,Medium,Priority outreach,128882.49,1,1,56,France
+15657540,0.326,Medium,Priority outreach,151215.34,2,0,50,France
+15622750,0.324,Medium,Priority outreach,114292.48,1,0,21,Germany
+15720687,0.32,Medium,Priority outreach,112609.91,1,0,41,France
+15609558,0.32,Medium,Priority outreach,108289.28,2,1,47,Germany
+15574369,0.318,Medium,Priority outreach,167259.44,1,1,53,Spain
+15623791,0.317,Medium,Priority outreach,109740.62,1,0,40,Spain
+15801658,0.316,Medium,Priority outreach,104305.74,1,1,55,France
+15635703,0.316,Medium,Priority outreach,131513.26,1,1,39,Germany
+15815070,0.314,Medium,Priority outreach,141428.99,2,0,44,Germany
+15797381,0.313,Medium,Priority outreach,133903.12,2,1,48,Germany
+15752809,0.31,Medium,Priority outreach,116121.67,1,0,43,Spain
+15707602,0.309,Medium,Priority outreach,127286.04,2,1,47,France
+15675337,0.308,Medium,Priority outreach,106011.59,1,1,34,Germany
+15784180,0.306,Medium,Priority outreach,206329.65,1,1,36,France
+15579223,0.302,Medium,Priority outreach,127406.5,1,0,30,Germany
+15642162,0.302,Medium,Priority outreach,123407.69,1,0,35,Germany
+15718765,0.3,Medium,Priority outreach,104533.24,1,0,43,Spain
+15740237,0.299,Low,Priority outreach,116695.27,1,0,36,Germany
+15571121,0.298,Low,Priority outreach,138340.06,1,1,50,France
+15703264,0.297,Low,Priority outreach,120681.63,1,0,44,France
+15705403,0.297,Low,Priority outreach,106521.49,1,1,46,Spain
+15763415,0.295,Low,Priority outreach,134378.89,1,1,41,Germany
+15576111,0.294,Low,Priority outreach,121898.58,1,0,33,Germany
+15579808,0.293,Low,Priority outreach,129401.87,1,1,39,Germany
+15637690,0.293,Low,Priority outreach,98675.74,1,0,34,Germany
+15775662,0.292,Low,Priority outreach,121911.59,1,0,43,France
+15618203,0.292,Low,Priority outreach,116197.65,2,1,51,Germany
+15675854,0.29,Low,Priority outreach,159304.07,1,1,50,Spain
+15644400,0.289,Low,Priority outreach,128601.98,1,0,44,France
+15569098,0.288,Low,Priority outreach,153548.12,1,0,44,France
+15732437,0.287,Low,Priority outreach,131873.07,2,1,44,Germany
+15700223,0.287,Low,Priority outreach,164701.68,1,1,48,France
+15769522,0.283,Low,Priority outreach,118537.47,1,1,51,France
+15622631,0.283,Low,Priority outreach,154409.74,1,0,44,France
+15641250,0.282,Low,Priority outreach,179581.31,1,0,38,Spain
+15710316,0.281,Low,Priority outreach,144837.79,1,1,48,Spain
+15621075,0.281,Low,Priority outreach,162150.42,2,0,45,Germany
+15693322,0.279,Low,Priority outreach,146748.07,1,1,37,Germany
+15723299,0.277,Low,Priority outreach,113709.28,1,1,53,France
+15633574,0.276,Low,Priority outreach,167545.32,1,0,41,France
+15673908,0.275,Low,Priority outreach,158414.85,1,1,42,Germany
+15607988,0.274,Low,Priority outreach,155303.71,1,0,37,Germany
+15704378,0.273,Low,Priority outreach,121342.24,1,1,37,Germany
+15747821,0.273,Low,Priority outreach,135470.9,1,0,31,Germany
+15807003,0.272,Low,Priority outreach,191775.65,1,0,32,France
+15695819,0.272,Low,Priority outreach,134740.19,2,0,43,Germany
+15619016,0.271,Low,Priority outreach,109019.65,2,1,46,Germany
+15577514,0.271,Low,Priority outreach,121263.62,1,1,36,Germany
+15776518,0.27,Low,Priority outreach,175739.36,1,1,38,France
+15621815,0.27,Low,Priority outreach,165526.71,1,0,40,France
+15629551,0.27,Low,Priority outreach,126104.98,2,1,44,Germany
+15611729,0.27,Low,Priority outreach,141559.5,1,1,39,Germany
+15598331,0.266,Low,Priority outreach,100480.53,1,0,40,France
+15801336,0.266,Low,Priority outreach,114737.26,1,1,37,Germany
+15801218,0.265,Low,Priority outreach,135133.39,1,1,49,France
+15611029,0.265,Low,Priority outreach,140002.35,1,0,33,Germany
+15723864,0.263,Low,Priority outreach,109876.82,2,0,47,Spain
+15784923,0.263,Low,Priority outreach,109974.22,1,1,37,Germany
+15741180,0.262,Low,Priority outreach,102141.9,1,1,54,France
+15778049,0.261,Low,Priority outreach,117412.35,1,0,29,Germany
+15666856,0.26,Low,Priority outreach,142767.39,1,1,49,France
+15638487,0.26,Low,Priority outreach,136858.42,1,1,38,Germany
+15636388,0.258,Low,Priority outreach,98775.23,1,0,23,Germany
+15737605,0.257,Low,Priority outreach,126495.57,2,1,45,Spain
+15748597,0.256,Low,Priority outreach,99529.7,1,1,56,Spain
+15762134,0.255,Low,Priority outreach,119152.1,2,1,59,Germany
+15607133,0.255,Low,Priority outreach,110864.38,2,1,49,Spain
+15692819,0.255,Low,Priority outreach,132178.67,1,0,32,Germany
+15770548,0.255,Low,Priority outreach,139986.65,1,0,28,Germany
+15588350,0.255,Low,Priority outreach,147832.15,1,1,43,France
+15766683,0.254,Low,Priority outreach,139422.37,1,0,36,Germany
+15802869,0.254,Low,Priority outreach,99169.67,2,1,45,Germany
+15630328,0.254,Low,Priority outreach,130796.33,2,1,48,France
+15771059,0.253,Low,Priority outreach,148200.72,1,0,34,Germany
+15684171,0.253,Low,Priority outreach,155931.11,1,1,61,Spain
+15798888,0.252,Low,Priority outreach,117992.59,1,1,31,Germany
+15679818,0.251,Low,Priority outreach,136709.35,1,1,67,Germany
+15647725,0.988,High,Automated engagement,62055.17,3,0,61,France
+15656822,0.971,High,Automated engagement,87612.64,4,1,43,Germany
+15610446,0.966,High,Automated engagement,88308.87,3,0,51,France
+15624820,0.96,High,Automated engagement,50911.21,3,0,56,Spain
+15605279,0.956,High,Automated engagement,0.0,4,1,50,France
+15759436,0.95,High,Automated engagement,95813.76,3,1,50,France
+15707637,0.944,High,Automated engagement,0.0,1,0,56,France
+15711446,0.941,High,Automated engagement,0.0,3,0,51,Spain
+15585362,0.933,High,Automated engagement,0.0,1,0,60,France
+15595592,0.932,High,Automated engagement,0.0,1,0,59,France
+15704284,0.929,High,Automated engagement,95295.39,1,0,57,Germany
+15569249,0.919,High,Automated engagement,44582.07,3,1,55,France
+15724223,0.916,High,Automated engagement,0.0,1,0,55,France
+15813113,0.909,High,Automated engagement,0.0,1,0,56,Spain
+15749583,0.907,High,Automated engagement,93569.86,3,0,38,Germany
+15623107,0.901,High,Automated engagement,74274.87,3,0,45,Spain
+15768342,0.896,High,Automated engagement,79475.3,3,1,52,France
+15752081,0.892,High,Automated engagement,0.0,3,1,56,France
+15570931,0.889,High,Automated engagement,0.0,1,0,61,France
+15664001,0.888,High,Automated engagement,95231.91,1,0,53,Germany
+15704583,0.883,High,Automated engagement,0.0,1,0,56,France
+15734610,0.873,High,Automated engagement,89838.71,3,0,42,France
+15789582,0.867,High,Automated engagement,0.0,1,0,55,France
+15598751,0.862,High,Automated engagement,0.0,3,0,43,France
+15579826,0.859,High,Automated engagement,0.0,1,0,66,France
+15589715,0.847,High,Automated engagement,0.0,1,0,66,France
+15672432,0.846,High,Automated engagement,0.0,1,0,53,France
+15601659,0.842,High,Automated engagement,91680.1,2,0,59,Germany
+15656683,0.84,High,Automated engagement,0.0,1,0,52,France
+15665077,0.827,High,Automated engagement,0.0,3,1,43,France
+15725679,0.824,High,Automated engagement,0.0,1,0,47,France
+15691817,0.821,High,Automated engagement,0.0,3,0,44,Spain
+15605916,0.814,High,Automated engagement,0.0,1,0,50,France
+15754577,0.812,High,Automated engagement,61354.14,1,0,51,France
+15757306,0.812,High,Automated engagement,0.0,3,1,49,Spain
+15814846,0.809,High,Automated engagement,0.0,1,0,52,France
+15704987,0.804,High,Automated engagement,49113.75,1,0,52,France
+15713483,0.795,High,Automated engagement,0.0,1,0,52,Spain
+15760216,0.787,High,Automated engagement,0.0,1,0,49,France
+15720071,0.782,High,Automated engagement,0.0,1,0,49,France
+15722991,0.782,High,Automated engagement,96402.96,1,0,54,France
+15800434,0.776,High,Automated engagement,76915.4,1,0,52,Germany
+15589475,0.764,High,Automated engagement,0.0,3,0,39,Spain
+15700801,0.761,High,Automated engagement,84445.68,3,1,42,Germany
+15757952,0.753,High,Automated engagement,0.0,3,0,44,France
+15758901,0.75,High,Automated engagement,0.0,1,0,47,Spain
+15684951,0.747,High,Automated engagement,68892.77,2,0,59,France
+15743617,0.736,High,Automated engagement,95994.98,1,0,47,Germany
+15597968,0.731,High,Automated engagement,0.0,1,0,50,Spain
+15661162,0.719,High,Automated engagement,0.0,1,0,49,Spain
+15810460,0.714,High,Automated engagement,0.0,3,1,64,Spain
+15776454,0.711,High,Automated engagement,0.0,1,0,48,France
+15597930,0.711,High,Automated engagement,59669.43,1,0,52,France
+15636428,0.701,High,Automated engagement,0.0,1,0,45,Spain
+15665956,0.697,High,Automated engagement,0.0,1,0,46,France
+15747208,0.68,High,Automated engagement,0.0,1,0,50,France
+15771383,0.653,High,Automated engagement,53667.44,1,0,45,Germany
+15612207,0.644,High,Automated engagement,87779.83,1,1,51,Germany
+15737025,0.643,High,Automated engagement,0.0,3,0,33,France
+15806546,0.64,High,Automated engagement,0.0,1,0,46,Spain
+15727944,0.628,High,Automated engagement,92072.68,1,1,48,Germany
+15573851,0.622,High,Automated engagement,0.0,3,0,38,France
+15729908,0.619,High,Automated engagement,0.0,1,0,36,France
+15757607,0.618,High,Automated engagement,0.0,1,0,45,France
+15729582,0.613,High,Automated engagement,80697.44,1,0,48,Germany
+15804131,0.607,High,Automated engagement,65407.16,2,0,53,Spain
+15659105,0.597,Medium,Automated engagement,61196.54,1,0,47,France
+15733361,0.585,Medium,Automated engagement,86714.06,1,0,45,Germany
+15751392,0.584,Medium,Automated engagement,0.0,2,0,57,Spain
+15743007,0.583,Medium,Automated engagement,45144.43,1,0,45,France
+15580249,0.574,Medium,Automated engagement,0.0,1,0,45,France
+15761487,0.569,Medium,Automated engagement,0.0,1,1,55,France
+15584704,0.569,Medium,Automated engagement,71083.98,1,0,48,France
+15583552,0.565,Medium,Automated engagement,88902.21,1,0,44,Germany
+15800583,0.564,Medium,Automated engagement,0.0,1,0,43,Spain
+15627665,0.563,Medium,Automated engagement,0.0,1,0,46,France
+15782210,0.561,Medium,Automated engagement,0.0,1,0,46,France
+15747534,0.56,Medium,Automated engagement,0.0,1,0,46,France
+15598086,0.56,Medium,Automated engagement,68639.57,1,0,45,France
+15715673,0.558,Medium,Automated engagement,89743.05,1,0,46,Spain
+15764170,0.556,Medium,Automated engagement,93960.35,1,0,44,Germany
+15749472,0.555,Medium,Automated engagement,0.0,1,0,45,France
+15600832,0.555,Medium,Automated engagement,0.0,1,0,43,France
+15592222,0.554,Medium,Automated engagement,80001.23,1,0,49,France
+15769216,0.551,Medium,Automated engagement,0.0,1,0,43,France
+15744240,0.546,Medium,Automated engagement,74458.25,1,1,46,Germany
+15635502,0.531,Medium,Automated engagement,0.0,1,0,44,France
+15657637,0.53,Medium,Automated engagement,0.0,3,0,36,Spain
+15790455,0.526,Medium,Automated engagement,0.0,1,1,50,France
+15630466,0.521,Medium,Automated engagement,0.0,1,0,45,France
+15721740,0.52,Medium,Automated engagement,88302.65,1,1,50,Germany
+15679284,0.517,Medium,Automated engagement,79259.75,1,0,45,Spain
+15736730,0.516,Medium,Automated engagement,0.0,1,1,45,France
+15714466,0.514,Medium,Automated engagement,0.0,3,0,41,France
+15706557,0.508,Medium,Automated engagement,0.0,2,0,52,France
+15680430,0.504,Medium,Automated engagement,96252.98,2,0,49,Germany
+15732299,0.501,Medium,Automated engagement,0.0,3,1,67,France
+15698716,0.496,Medium,Automated engagement,87926.24,2,0,70,France
+15640409,0.495,Medium,Automated engagement,89087.89,1,1,46,Germany
+15788535,0.48,Medium,Automated engagement,0.0,1,0,44,Spain
+15716608,0.478,Medium,Automated engagement,0.0,3,0,38,Spain
+15698184,0.476,Medium,Automated engagement,90408.16,2,0,50,France
+15751227,0.475,Medium,Automated engagement,95120.59,1,0,47,France
+15599078,0.471,Medium,Automated engagement,92467.58,1,0,41,Germany
+15680611,0.463,Medium,Automated engagement,0.0,3,1,67,France
+15778135,0.463,Medium,Automated engagement,0.0,1,0,43,Spain
+15691792,0.457,Medium,Automated engagement,0.0,1,0,35,Spain
+15577107,0.457,Medium,Automated engagement,0.0,3,1,22,Spain
+15792722,0.456,Medium,Automated engagement,64897.75,1,0,43,France
+15677020,0.454,Medium,Automated engagement,0.0,1,1,58,France
+15672082,0.451,Medium,Automated engagement,0.0,2,0,62,France
+15678201,0.45,Medium,Automated engagement,0.0,1,1,46,France
+15753110,0.449,Medium,Automated engagement,45752.78,2,0,64,Spain
+15758606,0.448,Medium,Automated engagement,0.0,1,1,54,France
+15733777,0.446,Medium,Automated engagement,0.0,1,0,44,France
+15649183,0.437,Medium,Automated engagement,0.0,3,1,35,Spain
+15681075,0.434,Medium,Automated engagement,0.0,1,1,58,France
+15661409,0.434,Medium,Automated engagement,0.0,1,1,42,France
+15745266,0.433,Medium,Automated engagement,0.0,1,1,55,Spain
+15802625,0.431,Medium,Automated engagement,85915.52,1,1,48,Germany
+15757568,0.43,Medium,Automated engagement,0.0,1,1,45,France
+15743714,0.428,Medium,Automated engagement,91443.75,1,0,46,France
+15809736,0.424,Medium,Automated engagement,0.0,1,1,46,France
+15813850,0.418,Medium,Automated engagement,0.0,1,1,52,France
+15733973,0.418,Medium,Automated engagement,0.0,1,0,42,France
+15739858,0.413,Medium,Automated engagement,0.0,1,1,56,France
+15737778,0.412,Medium,Automated engagement,0.0,1,0,41,Spain
+15750658,0.402,Medium,Automated engagement,0.0,3,0,37,France
+15792388,0.395,Medium,Automated engagement,90612.34,1,1,48,France
+15643158,0.394,Medium,Automated engagement,0.0,1,0,40,France
+15581626,0.391,Medium,Automated engagement,0.0,1,1,54,France
+15760521,0.391,Medium,Automated engagement,94164.0,1,1,50,France
+15691004,0.388,Medium,Automated engagement,0.0,1,1,37,Spain
+15757559,0.387,Medium,Automated engagement,0.0,2,0,53,France
+15745452,0.386,Medium,Automated engagement,90218.11,1,0,41,Germany
+15626795,0.382,Medium,Automated engagement,0.0,1,0,40,France
+15794276,0.38,Medium,Automated engagement,0.0,1,1,64,France
+15800049,0.38,Medium,Automated engagement,0.0,1,1,43,Spain
+15719856,0.376,Medium,Automated engagement,47134.75,1,1,45,France
+15732113,0.376,Medium,Automated engagement,0.0,1,1,50,Spain
+15684318,0.376,Medium,Automated engagement,96486.57,2,1,50,Germany
+15661903,0.373,Medium,Automated engagement,80764.03,1,0,43,France
+15679307,0.362,Medium,Automated engagement,0.0,1,1,43,France
+15592104,0.361,Medium,Automated engagement,0.0,1,0,41,France
+15640686,0.36,Medium,Automated engagement,95872.86,1,0,46,France
+15815530,0.36,Medium,Automated engagement,75497.51,1,0,42,France
+15673984,0.356,Medium,Automated engagement,0.0,1,0,35,France
+15769980,0.353,Medium,Automated engagement,92889.91,1,1,40,Germany
+15812920,0.352,Medium,Automated engagement,90594.55,1,1,40,Germany
+15614847,0.348,Medium,Automated engagement,72494.69,1,1,45,France
+15742834,0.347,Medium,Automated engagement,0.0,1,1,45,France
+15647203,0.347,Medium,Automated engagement,0.0,1,0,35,France
+15677369,0.343,Medium,Automated engagement,58629.97,1,0,37,Germany
+15638003,0.341,Medium,Automated engagement,81370.07,1,1,55,Spain
+15742442,0.339,Medium,Automated engagement,89364.91,1,1,46,Spain
+15591985,0.337,Medium,Automated engagement,70754.18,1,1,51,France
+15699309,0.336,Medium,Automated engagement,0.0,1,0,38,Spain
+15574169,0.332,Medium,Automated engagement,92466.21,1,0,32,Germany
+15725221,0.329,Medium,Automated engagement,83008.31,1,1,62,Germany
+15576313,0.328,Medium,Automated engagement,71340.09,1,0,40,Germany
+15664849,0.328,Medium,Automated engagement,65269.23,1,1,46,Spain
+15659092,0.328,Medium,Automated engagement,0.0,2,0,50,France
+15680895,0.327,Medium,Automated engagement,0.0,1,0,35,Spain
+15692664,0.325,Medium,Automated engagement,90022.85,1,1,58,France
+15683544,0.321,Medium,Automated engagement,0.0,1,1,62,Spain
+15578866,0.321,Medium,Automated engagement,0.0,1,1,43,France
+15702462,0.321,Medium,Automated engagement,52831.13,1,1,44,Spain
+15625819,0.32,Medium,Automated engagement,0.0,1,0,38,France
+15680278,0.309,Medium,Automated engagement,75361.44,1,0,42,Spain
+15773779,0.306,Medium,Automated engagement,76597.79,1,1,46,Spain
+15632665,0.3,Low,Automated engagement,0.0,1,1,61,France
+15781619,0.299,Low,Automated engagement,0.0,1,0,38,France
+15738634,0.295,Low,Automated engagement,83347.25,1,1,47,France
+15630241,0.289,Low,Automated engagement,62391.22,1,1,61,France
+15710366,0.289,Low,Automated engagement,0.0,1,1,42,Spain
+15596088,0.288,Low,Automated engagement,77065.9,2,1,50,France
+15731478,0.286,Low,Automated engagement,87842.98,1,0,42,France
+15707974,0.284,Low,Automated engagement,48387.0,1,0,38,Spain
+15726313,0.282,Low,Automated engagement,0.0,2,0,50,Spain
+15641110,0.282,Low,Automated engagement,0.0,1,0,41,France
+15772009,0.281,Low,Automated engagement,0.0,1,1,41,France
+15781665,0.281,Low,Automated engagement,0.0,1,0,37,France
+15799811,0.279,Low,Automated engagement,0.0,1,0,40,France
+15736271,0.279,Low,Automated engagement,0.0,1,0,29,France
+15708357,0.276,Low,Automated engagement,0.0,1,0,38,Spain
+15594898,0.276,Low,Automated engagement,0.0,1,1,43,France
+15613623,0.274,Low,Automated engagement,0.0,1,1,62,Spain
+15610416,0.272,Low,Automated engagement,0.0,1,0,36,France
+15743976,0.272,Low,Automated engagement,37702.79,1,1,41,Germany
+15808760,0.267,Low,Automated engagement,0.0,1,1,42,Spain
+15804038,0.264,Low,Automated engagement,0.0,1,1,44,France
+15581620,0.263,Low,Automated engagement,0.0,3,1,28,France
+15805690,0.263,Low,Automated engagement,0.0,1,0,35,Spain
+15654296,0.261,Low,Automated engagement,0.0,1,0,19,Spain
+15645593,0.258,Low,Automated engagement,91328.71,1,0,41,France
+15672467,0.257,Low,Automated engagement,92510.9,2,1,52,France
+15748854,0.256,Low,Automated engagement,91938.31,1,0,28,Germany
+15644882,0.254,Low,Automated engagement,78249.53,1,0,36,Germany
+15601263,0.254,Low,Automated engagement,0.0,2,0,48,Spain
+15655590,0.253,Low,Automated engagement,79385.21,2,0,46,Spain
+15728333,0.252,Low,Automated engagement,0.0,1,1,43,France
+15804919,0.251,Low,Automated engagement,0.0,1,1,65,Spain
+15703544,0.251,Low,Automated engagement,0.0,1,0,34,Spain
+15576706,0.249,Low,Nurture,114453.58,1,1,37,Germany
+15624013,0.249,Low,Nurture,109844.81,1,0,39,France
+15604314,0.248,Low,Nurture,97331.19,1,0,26,Germany
+15802617,0.248,Low,Nurture,115371.94,2,0,43,Germany
+15782364,0.247,Low,Nurture,146408.68,1,0,39,Spain
+15669301,0.246,Low,Nurture,150358.97,1,0,29,Germany
+15616530,0.245,Low,Nurture,188455.19,1,0,36,France
+15684995,0.245,Low,Nurture,116622.73,1,1,49,Spain
+15755638,0.244,Low,Nurture,168069.73,1,1,43,France
+15811290,0.244,Low,Nurture,129974.79,2,1,44,Germany
+15621116,0.243,Low,Nurture,138664.24,1,0,33,Germany
+15699492,0.241,Low,Nurture,147435.96,1,0,27,Germany
+15627190,0.24,Low,Nurture,146606.6,1,1,51,France
+15765487,0.24,Low,Nurture,151766.71,1,1,38,Germany
+15583668,0.238,Low,Nurture,109471.79,1,1,42,France
+15596175,0.237,Low,Nurture,117411.6,1,1,67,Germany
+15801788,0.237,Low,Nurture,185544.36,1,0,29,Germany
+15800229,0.236,Low,Nurture,139022.24,1,1,40,Germany
+15788291,0.235,Low,Nurture,144606.22,1,1,38,Germany
+15713426,0.235,Low,Nurture,122185.53,1,0,30,Germany
+15632609,0.234,Low,Nurture,160132.75,1,0,39,France
+15684469,0.232,Low,Nurture,117070.21,1,0,32,Germany
+15757632,0.231,Low,Nurture,176024.05,2,0,41,France
+15599126,0.23,Low,Nurture,123815.86,1,1,43,France
+15590177,0.23,Low,Nurture,133866.22,1,1,44,France
+15635078,0.229,Low,Nurture,124693.48,1,1,45,Spain
+15632050,0.229,Low,Nurture,99786.2,1,0,41,France
+15628886,0.228,Low,Nurture,123959.97,1,1,56,Spain
+15790846,0.228,Low,Nurture,148430.55,1,1,38,Germany
+15667458,0.227,Low,Nurture,124023.18,1,0,28,Germany
+15757829,0.225,Low,Nurture,137389.77,2,0,40,Germany
+15774250,0.225,Low,Nurture,159024.71,1,0,42,France
+15691808,0.225,Low,Nurture,134919.85,1,0,43,France
+15763414,0.224,Low,Nurture,113447.01,1,0,32,Germany
+15658240,0.224,Low,Nurture,135814.7,2,0,44,France
+15714832,0.224,Low,Nurture,150956.71,1,0,36,Germany
+15584320,0.224,Low,Nurture,111695.62,1,0,39,France
+15690231,0.223,Low,Nurture,167026.61,2,1,62,Spain
+15644621,0.223,Low,Nurture,106756.01,2,0,40,Germany
+15571973,0.222,Low,Nurture,169824.46,1,0,38,France
+15611058,0.222,Low,Nurture,138597.54,2,1,60,Germany
+15611371,0.221,Low,Nurture,176134.54,1,1,43,France
+15668235,0.22,Low,Nurture,123475.04,1,1,41,France
+15679968,0.22,Low,Nurture,118788.57,1,0,40,France
+15771977,0.22,Low,Nurture,99010.67,1,0,39,France
+15807245,0.219,Low,Nurture,200117.76,2,0,41,Germany
+15769412,0.219,Low,Nurture,207034.96,2,0,39,Spain
+15647965,0.218,Low,Nurture,114023.64,2,1,57,France
+15721469,0.218,Low,Nurture,170295.04,2,0,45,Germany
+15594041,0.217,Low,Nurture,138734.94,1,0,41,Spain
+15772421,0.216,Low,Nurture,128927.93,1,1,31,Germany
+15655229,0.214,Low,Nurture,114285.2,1,1,35,Germany
+15575935,0.213,Low,Nurture,178058.06,2,1,59,France
+15625740,0.212,Low,Nurture,143426.34,2,1,62,Germany
+15633586,0.212,Low,Nurture,120962.13,1,0,39,France
+15616709,0.211,Low,Nurture,132122.42,2,0,38,Germany
+15710295,0.21,Low,Nurture,119413.62,2,0,38,Germany
+15697310,0.21,Low,Nurture,152264.81,1,0,28,Germany
+15710053,0.21,Low,Nurture,140406.68,2,1,44,Germany
+15748552,0.208,Low,Nurture,155994.15,1,0,37,Germany
+15759387,0.208,Low,Nurture,101487.18,1,1,38,Germany
+15762331,0.208,Low,Nurture,178755.84,1,0,37,France
+15663808,0.208,Low,Nurture,152614.51,2,1,59,Germany
+15778005,0.207,Low,Nurture,130147.98,1,0,39,France
+15712568,0.207,Low,Nurture,121355.99,1,0,40,Spain
+15602812,0.206,Low,Nurture,133776.86,2,1,44,Germany
+15609987,0.205,Low,Nurture,119919.12,1,0,42,France
+15813917,0.205,Low,Nurture,143321.97,1,0,31,Germany
+15611800,0.205,Low,Nurture,125163.62,2,1,62,France
+15811958,0.204,Low,Nurture,112755.34,2,0,44,Germany
+15658675,0.204,Low,Nurture,135795.63,1,1,37,Germany
+15791191,0.204,Low,Nurture,103996.74,1,1,59,France
+15764226,0.203,Low,Nurture,106425.75,1,1,28,Germany
+15608114,0.201,Low,Nurture,121286.27,1,1,62,Spain
+15743532,0.201,Low,Nurture,147004.34,1,0,27,Germany
+15723263,0.201,Low,Nurture,117160.32,1,1,34,Germany
+15673837,0.2,Low,Nurture,113858.95,1,1,61,Spain
+15612087,0.2,Low,Nurture,106376.85,1,1,45,France
+15566633,0.199,Low,Nurture,155059.1,2,1,55,Germany
+15742229,0.198,Low,Nurture,127450.14,1,1,59,France
+15809347,0.197,Low,Nurture,160680.41,1,0,32,Germany
+15735400,0.195,Low,Nurture,179960.2,1,0,28,France
+15753161,0.194,Low,Nurture,180169.44,2,0,36,France
+15778481,0.193,Low,Nurture,118962.58,1,1,59,France
+15712199,0.193,Low,Nurture,183997.7,2,1,61,Germany
+15715079,0.192,Low,Nurture,117221.15,1,0,41,France
+15668472,0.192,Low,Nurture,177799.83,2,0,24,Spain
+15609510,0.191,Low,Nurture,149364.58,1,1,45,France
+15724145,0.19,Low,Nurture,149318.55,1,0,29,Germany
+15748499,0.189,Low,Nurture,118400.91,1,1,33,Germany
+15809654,0.189,Low,Nurture,127476.73,2,1,46,France
+15702669,0.189,Low,Nurture,117028.6,2,1,44,Germany
+15625944,0.189,Low,Nurture,98668.18,1,1,58,France
+15672610,0.188,Low,Nurture,118628.8,1,0,40,Spain
+15764335,0.188,Low,Nurture,123151.51,2,0,41,Germany
+15627859,0.188,Low,Nurture,102609.0,1,0,29,Germany
+15620103,0.186,Low,Nurture,167181.01,1,1,40,France
+15623357,0.184,Low,Nurture,120596.93,1,1,24,Germany
+15646490,0.184,Low,Nurture,190569.23,1,1,42,Spain
+15701074,0.184,Low,Nurture,112330.83,1,1,35,Germany
+15761132,0.184,Low,Nurture,128029.72,1,1,46,Spain
+15628767,0.183,Low,Nurture,139529.93,2,1,63,Spain
+15617705,0.183,Low,Nurture,141675.23,1,1,39,France
+15764922,0.182,Low,Nurture,187294.46,1,0,20,Spain
+15784099,0.182,Low,Nurture,126875.62,1,0,38,France
+15590241,0.181,Low,Nurture,112822.26,1,0,34,Spain
+15811927,0.181,Low,Nurture,157658.36,1,0,38,France
+15776494,0.18,Low,Nurture,146622.35,1,1,61,France
+15568963,0.18,Low,Nurture,152797.9,1,0,34,Germany
+15669326,0.179,Low,Nurture,168396.34,1,1,44,France
+15775756,0.179,Low,Nurture,148055.74,1,0,33,Germany
+15594340,0.178,Low,Nurture,120243.49,1,0,41,France
+15634936,0.176,Low,Nurture,179904.0,1,1,41,France
+15572428,0.175,Low,Nurture,115777.23,1,1,33,Germany
+15653110,0.174,Low,Nurture,133767.19,1,0,42,France
+15682273,0.173,Low,Nurture,127616.56,1,0,38,France
+15640161,0.172,Low,Nurture,157955.83,2,0,44,Germany
+15815552,0.171,Low,Nurture,112333.63,1,1,42,France
+15589660,0.17,Low,Nurture,145980.23,1,1,32,Germany
+15652981,0.169,Low,Nurture,119755.0,1,1,30,Germany
+15576044,0.169,Low,Nurture,150329.15,1,0,28,Germany
+15757385,0.169,Low,Nurture,161592.76,1,0,28,Spain
+15582492,0.169,Low,Nurture,112367.34,1,0,29,France
+15573730,0.169,Low,Nurture,126704.49,2,0,42,Germany
+15631359,0.167,Low,Nurture,117289.92,1,0,38,France
+15810775,0.167,Low,Nurture,100549.43,2,1,52,Spain
+15609928,0.167,Low,Nurture,129305.09,2,1,43,Germany
+15812272,0.166,Low,Nurture,124601.58,2,1,44,Germany
+15766166,0.166,Low,Nurture,145081.72,1,1,43,Spain
+15668323,0.166,Low,Nurture,143443.61,1,0,41,France
+15771509,0.165,Low,Nurture,98548.62,2,1,42,Germany
+15750049,0.165,Low,Nurture,163823.37,1,0,40,France
+15691104,0.165,Low,Nurture,119507.58,2,0,40,Germany
+15645511,0.165,Low,Nurture,97403.18,1,1,43,Spain
+15630913,0.164,Low,Nurture,105303.73,1,1,69,Spain
+15737814,0.164,Low,Nurture,127087.06,1,0,41,France
+15714355,0.164,Low,Nurture,121669.23,1,1,32,Germany
+15761286,0.164,Low,Nurture,119499.42,2,1,66,Germany
+15719649,0.162,Low,Nurture,99844.68,1,0,38,France
+15621818,0.161,Low,Nurture,117726.33,1,1,29,Germany
+15638149,0.16,Low,Nurture,103772.45,1,0,37,France
+15728474,0.16,Low,Nurture,108235.91,1,1,32,Germany
+15572361,0.16,Low,Nurture,164011.48,1,0,34,Germany
+15798885,0.159,Low,Nurture,138227.19,2,1,56,France
+15661734,0.159,Low,Nurture,131390.75,2,0,42,Germany
+15627801,0.159,Low,Nurture,176666.62,1,0,33,Spain
+15692291,0.159,Low,Nurture,99056.22,2,0,42,Spain
+15568904,0.159,Low,Nurture,106288.54,1,1,34,Germany
+15579583,0.158,Low,Nurture,101090.27,1,1,40,Spain
+15710257,0.158,Low,Nurture,130786.92,1,1,39,France
+15734987,0.158,Low,Nurture,140260.36,2,0,43,France
+15698031,0.157,Low,Nurture,101851.8,2,0,39,Germany
+15629739,0.157,Low,Nurture,100375.39,1,1,31,Germany
+15569678,0.157,Low,Nurture,166824.59,1,0,32,Germany
+15757895,0.157,Low,Nurture,106629.49,1,1,30,Germany
+15652999,0.156,Low,Nurture,137937.95,1,1,33,Germany
+15789941,0.156,Low,Nurture,125130.28,1,0,36,France
+15594786,0.156,Low,Nurture,111565.91,1,1,34,Germany
+15665861,0.156,Low,Nurture,106070.89,1,1,44,Spain
+15737521,0.155,Low,Nurture,103604.31,2,0,40,Germany
+15792916,0.155,Low,Nurture,144470.77,1,1,40,Spain
+15731026,0.155,Low,Nurture,100062.16,2,0,39,Germany
+15576126,0.154,Low,Nurture,125785.23,1,1,41,France
+15623450,0.154,Low,Nurture,135842.89,1,1,27,Germany
+15772216,0.153,Low,Nurture,130652.52,1,1,67,France
+15751131,0.153,Low,Nurture,150302.84,1,1,41,Spain
+15786392,0.152,Low,Nurture,124182.21,1,0,41,France
+15635776,0.151,Low,Nurture,154846.24,2,1,43,Germany
+15790379,0.151,Low,Nurture,108601.0,1,1,28,Germany
+15624186,0.151,Low,Nurture,123616.43,1,1,25,Germany
+15731330,0.151,Low,Nurture,100471.34,1,1,40,Spain
+15795747,0.149,Low,Nurture,171646.76,1,1,39,Spain
+15730810,0.149,Low,Nurture,100524.69,1,1,44,Spain
+15747649,0.148,Low,Nurture,126606.63,2,1,36,Germany
+15795640,0.148,Low,Nurture,132371.3,2,0,35,Germany
+15567897,0.148,Low,Nurture,132725.1,1,1,23,Germany
+15584091,0.148,Low,Nurture,129748.54,2,0,36,Germany
+15726631,0.147,Low,Nurture,127357.76,1,1,39,France
+15662574,0.147,Low,Nurture,115137.26,1,0,37,Spain
+15583049,0.146,Low,Nurture,160426.07,1,1,34,Germany
+15742681,0.145,Low,Nurture,121365.39,1,1,26,Germany
+15726354,0.144,Low,Nurture,123157.95,1,0,32,France
+15608845,0.144,Low,Nurture,124197.22,1,0,38,Spain
+15802207,0.143,Low,Nurture,110182.54,2,1,43,Germany
+15586243,0.142,Low,Nurture,122277.87,1,1,44,France
+15713853,0.142,Low,Nurture,108748.08,2,1,42,Germany
+15641662,0.142,Low,Nurture,117469.91,2,0,39,Germany
+15578809,0.142,Low,Nurture,134760.21,2,0,40,Germany
+15664083,0.141,Low,Nurture,158468.76,1,1,37,Germany
+15653572,0.141,Low,Nurture,127132.96,1,1,43,Spain
+15688059,0.14,Low,Nurture,105356.09,2,1,42,Germany
+15742607,0.14,Low,Nurture,102800.72,1,1,36,Germany
+15760641,0.139,Low,Nurture,106648.98,1,1,26,Germany
+15599403,0.139,Low,Nurture,125389.7,2,1,60,France
+15728224,0.138,Low,Nurture,149155.53,2,0,41,Germany
+15689152,0.138,Low,Nurture,126152.84,1,0,38,Spain
+15728043,0.138,Low,Nurture,138503.51,2,0,37,Germany
+15787825,0.136,Low,Nurture,152496.82,1,1,37,Germany
+15601026,0.136,Low,Nurture,138657.08,1,1,19,Germany
+15657386,0.135,Low,Nurture,141749.74,2,1,43,Germany
+15698522,0.135,Low,Nurture,134599.33,2,0,39,Germany
+15580462,0.135,Low,Nurture,112544.45,1,1,40,Spain
+15746564,0.135,Low,Nurture,108010.78,1,1,42,France
+15792329,0.134,Low,Nurture,107106.33,2,0,37,Germany
+15678058,0.134,Low,Nurture,104584.16,1,0,38,France
+15592379,0.133,Low,Nurture,121056.63,2,0,42,Spain
+15659501,0.133,Low,Nurture,142263.45,1,1,38,France
+15723604,0.132,Low,Nurture,150555.83,1,0,39,France
+15684440,0.132,Low,Nurture,98986.28,1,1,32,Germany
+15699797,0.132,Low,Nurture,174356.13,1,0,30,France
+15585865,0.131,Low,Nurture,170061.92,2,0,38,France
+15590094,0.13,Low,Nurture,126265.88,2,0,38,Germany
+15622911,0.13,Low,Nurture,105420.18,1,1,42,France
+15683841,0.13,Low,Nurture,113270.2,2,1,41,Germany
+15809143,0.129,Low,Nurture,133060.63,1,1,32,Germany
+15571476,0.129,Low,Nurture,103257.14,1,0,38,Spain
+15570134,0.129,Low,Nurture,187530.66,2,1,35,France
+15607275,0.129,Low,Nurture,206014.94,2,1,39,Spain
+15745844,0.128,Low,Nurture,129502.49,2,1,40,Germany
+15604146,0.128,Low,Nurture,103653.51,2,1,38,Germany
+15600357,0.128,Low,Nurture,140197.71,2,0,40,France
+15628008,0.127,Low,Nurture,98759.89,1,0,29,Spain
+15733872,0.127,Low,Nurture,130229.71,2,0,33,Germany
+15799128,0.127,Low,Nurture,102406.76,1,1,38,Spain
+15752097,0.127,Low,Nurture,99640.89,1,0,38,Spain
+15808223,0.125,Low,Nurture,126773.43,1,1,41,Spain
+15792660,0.125,Low,Nurture,116248.88,1,0,38,France
+15602844,0.124,Low,Nurture,97459.06,1,0,38,France
+15677783,0.124,Low,Nurture,113607.47,1,0,38,Spain
+15631838,0.124,Low,Nurture,108166.09,2,1,61,France
+15731890,0.124,Low,Nurture,123971.16,1,1,41,France
+15768201,0.124,Low,Nurture,148586.64,1,1,39,France
+15677062,0.124,Low,Nurture,127043.09,1,1,38,France
+15659364,0.123,Low,Nurture,164902.43,1,0,23,Spain
+15739194,0.123,Low,Nurture,178056.54,2,0,38,Spain
+15578761,0.123,Low,Nurture,129634.25,2,1,42,Spain
+15587562,0.122,Low,Nurture,130114.39,1,0,29,France
+15621083,0.122,Low,Nurture,136325.48,2,1,57,France
+15586880,0.122,Low,Nurture,122545.65,2,1,41,Germany
+15620735,0.121,Low,Nurture,127076.68,2,0,33,Germany
+15614420,0.121,Low,Nurture,109570.21,2,1,32,Germany
+15768104,0.121,Low,Nurture,141541.25,1,0,37,Spain
+15641595,0.121,Low,Nurture,97392.18,2,0,43,Spain
+15730759,0.12,Low,Nurture,135637.0,1,0,27,France
+15599301,0.12,Low,Nurture,164365.44,1,1,28,Germany
+15679075,0.12,Low,Nurture,107798.85,1,0,37,France
+15586870,0.12,Low,Nurture,193125.85,1,1,27,France
+15575399,0.12,Low,Nurture,152160.21,2,0,42,France
+15633546,0.12,Low,Nurture,124832.51,1,0,33,Spain
+15616088,0.119,Low,Nurture,97072.42,1,1,70,France
+15654074,0.119,Low,Nurture,119315.75,1,0,38,France
+15795895,0.119,Low,Nurture,117864.85,2,0,36,Germany
+15637979,0.119,Low,Nurture,127160.78,2,0,36,Germany
+15715888,0.119,Low,Nurture,142289.28,1,1,38,France
+15581229,0.119,Low,Nurture,173340.83,1,1,32,Germany
+15716276,0.119,Low,Nurture,111669.68,1,0,34,France
+15781307,0.118,Low,Nurture,120092.52,2,0,37,Germany
+15643378,0.118,Low,Nurture,112419.92,1,1,42,France
+15780088,0.117,Low,Nurture,132439.99,1,0,34,Spain
+15788539,0.117,Low,Nurture,107747.57,1,0,34,France
+15763093,0.117,Low,Nurture,128369.75,2,0,35,Germany
+15794868,0.117,Low,Nurture,137456.28,2,1,40,Germany
+15664523,0.117,Low,Nurture,122021.92,2,0,31,Germany
+15595917,0.117,Low,Nurture,102097.33,1,1,35,France
+15568849,0.117,Low,Nurture,118158.74,1,1,31,Spain
+15775750,0.116,Low,Nurture,134560.62,1,0,37,France
+15611191,0.116,Low,Nurture,122453.97,2,1,37,Germany
+15690678,0.116,Low,Nurture,129307.32,1,1,33,France
+15581871,0.115,Low,Nurture,131287.36,2,1,42,Germany
+15677184,0.115,Low,Nurture,115576.44,1,1,35,France
+15629575,0.115,Low,Nurture,148061.89,1,0,36,France
+15635125,0.114,Low,Nurture,120787.18,2,1,63,Spain
+15722004,0.114,Low,Nurture,138317.94,1,0,31,France
+15792668,0.114,Low,Nurture,109908.06,2,0,37,Germany
+15722692,0.114,Low,Nurture,116439.65,1,0,38,France
+15609254,0.114,Low,Nurture,107135.04,2,1,41,Spain
+15584114,0.113,Low,Nurture,153393.18,2,1,43,Germany
+15766746,0.113,Low,Nurture,127120.07,1,0,35,France
+15771580,0.113,Low,Nurture,106831.69,1,1,38,France
+15717290,0.113,Low,Nurture,112871.19,2,1,41,Germany
+15592707,0.112,Low,Nurture,175754.87,2,1,64,Germany
+15578546,0.112,Low,Nurture,102251.14,1,1,26,Germany
+15727556,0.112,Low,Nurture,166297.89,1,1,26,Spain
+15721507,0.112,Low,Nurture,117094.02,1,0,32,France
+15572093,0.112,Low,Nurture,140453.91,1,0,24,France
+15712319,0.112,Low,Nurture,150900.29,2,1,45,Spain
+15584785,0.111,Low,Nurture,97324.91,1,0,37,France
+15725036,0.111,Low,Nurture,118546.71,1,1,42,France
+15675585,0.111,Low,Nurture,97738.97,2,1,25,Germany
+15801915,0.111,Low,Nurture,152310.55,1,0,31,France
+15685357,0.11,Low,Nurture,112940.07,1,1,36,Spain
+15794874,0.11,Low,Nurture,127523.75,1,1,41,Spain
+15621546,0.11,Low,Nurture,127638.35,1,1,33,France
+15757628,0.11,Low,Nurture,112896.86,1,1,40,France
+15735522,0.11,Low,Nurture,145610.07,2,0,37,Germany
+15694628,0.11,Low,Nurture,157731.6,2,0,39,Germany
+15690332,0.109,Low,Nurture,192407.97,1,1,35,Germany
+15782591,0.109,Low,Nurture,112689.95,1,0,35,France
+15802758,0.109,Low,Nurture,104753.84,2,0,23,Germany
+15732774,0.109,Low,Nurture,112291.34,1,0,37,France
+15801152,0.109,Low,Nurture,142876.98,2,0,39,Spain
+15669342,0.108,Low,Nurture,127862.93,2,0,35,Germany
+15569438,0.108,Low,Nurture,106702.94,2,0,36,Germany
+15733842,0.107,Low,Nurture,103219.47,1,0,24,France
+15672912,0.107,Low,Nurture,130051.66,2,0,39,Spain
+15738889,0.107,Low,Nurture,102870.93,1,1,42,France
+15645896,0.107,Low,Nurture,121681.91,2,1,39,Germany
+15700476,0.107,Low,Nurture,103522.75,2,1,41,Germany
+15594576,0.106,Low,Nurture,144875.71,1,0,32,France
+15624391,0.106,Low,Nurture,100683.54,1,1,30,Spain
+15659366,0.106,Low,Nurture,105799.32,2,0,43,France
+15591552,0.106,Low,Nurture,98877.95,1,0,32,France
+15745201,0.106,Low,Nurture,139496.35,2,1,43,France
+15689322,0.104,Low,Nurture,153316.14,1,0,31,Spain
+15618225,0.104,Low,Nurture,116993.43,2,0,36,Germany
+15740846,0.104,Low,Nurture,125909.85,1,1,40,France
+15773260,0.104,Low,Nurture,127763.24,1,0,32,France
+15722813,0.104,Low,Nurture,125385.01,1,0,30,Spain
+15632263,0.104,Low,Nurture,120355.0,1,0,30,Spain
+15799815,0.104,Low,Nurture,163549.63,1,1,23,Germany
+15736420,0.103,Low,Nurture,210433.08,2,1,21,France
+15793197,0.103,Low,Nurture,100359.54,1,0,34,France
+15572728,0.103,Low,Nurture,127397.34,1,0,36,Spain
+15640266,0.103,Low,Nurture,104631.67,1,1,41,Spain
+15683930,0.102,Low,Nurture,134096.53,2,0,32,Germany
+15687171,0.102,Low,Nurture,146679.77,1,0,34,Spain
+15584580,0.102,Low,Nurture,161111.45,1,0,35,France
+15616525,0.102,Low,Nurture,141356.47,1,0,31,Spain
+15809999,0.101,Low,Nurture,150300.65,2,0,41,France
+15788930,0.101,Low,Nurture,132730.17,1,0,37,Spain
+15790678,0.101,Low,Nurture,119023.28,1,0,32,France
+15767231,0.1,Low,Nurture,144852.06,1,0,36,France
+15605926,0.1,Low,Nurture,116854.71,2,1,70,Germany
+15624993,0.099,Low,Nurture,128518.98,1,1,36,France
+15645136,0.099,Low,Nurture,128065.12,1,0,30,Spain
+15661526,0.098,Low,Nurture,110777.26,2,0,37,Germany
+15770345,0.098,Low,Nurture,139183.06,1,1,31,Spain
+15711977,0.097,Low,Nurture,161533.0,1,0,36,France
+15730339,0.097,Low,Nurture,133446.34,1,0,30,Spain
+15663312,0.096,Low,Nurture,112727.06,2,0,35,France
+15792222,0.096,Low,Nurture,106881.5,2,0,37,France
+15774328,0.096,Low,Nurture,144757.97,2,1,40,Germany
+15802220,0.096,Low,Nurture,137102.65,1,0,35,Spain
+15570051,0.096,Low,Nurture,179886.41,2,0,38,Germany
+15800845,0.096,Low,Nurture,111379.55,1,1,33,Spain
+15787597,0.096,Low,Nurture,108377.75,2,1,31,Germany
+15741865,0.095,Low,Nurture,153166.17,1,1,38,France
+15711521,0.095,Low,Nurture,121778.71,1,1,39,France
+15720508,0.095,Low,Nurture,119558.35,1,0,31,France
+15578435,0.095,Low,Nurture,110340.68,1,1,40,France
+15744041,0.093,Low,Nurture,140356.7,1,0,26,France
+15593178,0.093,Low,Nurture,153610.61,1,1,36,Spain
+15566563,0.093,Low,Nurture,137851.31,1,0,30,France
+15675675,0.093,Low,Nurture,106290.64,1,0,32,France
+15638513,0.093,Low,Nurture,142856.95,2,0,40,France
+15619529,0.092,Low,Nurture,132576.25,1,0,27,Spain
+15755209,0.092,Low,Nurture,133868.21,1,1,35,Spain
+15796114,0.092,Low,Nurture,141525.55,1,0,34,France
+15681887,0.092,Low,Nurture,129142.54,2,1,33,Germany
+15688085,0.091,Low,Nurture,157597.61,1,1,28,Spain
+15690731,0.091,Low,Nurture,131411.24,1,1,40,France
+15626507,0.091,Low,Nurture,152283.39,1,0,27,France
+15801395,0.091,Low,Nurture,135120.72,1,0,33,France
+15655339,0.091,Low,Nurture,142120.91,1,0,36,France
+15788775,0.09,Low,Nurture,152576.25,2,0,40,Germany
+15567893,0.09,Low,Nurture,124213.36,2,0,33,Germany
+15575619,0.09,Low,Nurture,104254.27,1,1,32,Spain
+15807340,0.09,Low,Nurture,131023.76,2,0,33,Germany
+15641860,0.09,Low,Nurture,108760.27,2,0,34,Germany
+15733904,0.09,Low,Nurture,147493.89,1,0,32,France
+15625881,0.09,Low,Nurture,111432.77,2,1,37,Germany
+15620836,0.09,Low,Nurture,108410.87,2,0,34,Germany
+15573112,0.09,Low,Nurture,103907.28,1,0,29,Spain
+15571261,0.089,Low,Nurture,126077.43,2,1,35,Germany
+15627517,0.089,Low,Nurture,149400.27,1,0,27,Spain
+15613180,0.089,Low,Nurture,153344.72,1,1,21,Germany
+15692430,0.089,Low,Nurture,123601.56,2,0,36,Germany
+15598046,0.089,Low,Nurture,139562.05,2,0,39,France
+15675422,0.089,Low,Nurture,110728.39,1,1,32,France
+15781702,0.088,Low,Nurture,111347.37,2,1,38,Germany
+15603378,0.088,Low,Nurture,141334.95,1,1,36,France
+15656937,0.088,Low,Nurture,131643.25,1,0,26,Spain
+15765952,0.088,Low,Nurture,145471.37,1,0,29,France
+15723320,0.088,Low,Nurture,109175.14,2,0,25,Germany
+15729412,0.088,Low,Nurture,107192.38,1,1,38,France
+15761763,0.088,Low,Nurture,164385.53,1,0,33,France
+15789379,0.087,Low,Nurture,130428.78,1,0,26,France
+15603170,0.087,Low,Nurture,121455.65,1,0,32,France
+15758136,0.087,Low,Nurture,141803.77,1,1,37,France
+15618695,0.087,Low,Nurture,108117.1,1,1,22,Spain
+15763579,0.087,Low,Nurture,105264.88,2,1,36,Germany
+15767891,0.087,Low,Nurture,99152.73,2,0,28,Germany
+15748327,0.086,Low,Nurture,118235.7,2,0,34,Germany
+15631512,0.086,Low,Nurture,149989.39,1,0,26,France
+15766172,0.086,Low,Nurture,128743.55,1,0,34,France
+15583394,0.086,Low,Nurture,106259.63,2,1,39,Germany
+15784286,0.086,Low,Nurture,102145.13,1,1,40,Spain
+15688563,0.086,Low,Nurture,141989.27,2,0,31,Germany
+15668958,0.086,Low,Nurture,107316.09,1,0,30,France
+15699963,0.086,Low,Nurture,121405.04,1,1,38,France
+15570990,0.086,Low,Nurture,145222.99,2,0,30,Spain
+15768006,0.085,Low,Nurture,152303.8,1,0,34,France
+15774098,0.085,Low,Nurture,125385.49,2,1,38,Germany
+15659656,0.085,Low,Nurture,110837.73,1,0,35,France
+15633419,0.085,Low,Nurture,143124.63,2,0,28,Germany
+15652218,0.084,Low,Nurture,152302.72,1,0,33,France
+15631848,0.084,Low,Nurture,121508.28,1,1,26,France
+15736990,0.084,Low,Nurture,157842.07,1,0,28,France
+15724423,0.084,Low,Nurture,107193.82,2,0,38,France
+15704629,0.084,Low,Nurture,116409.55,1,1,32,France
+15648030,0.084,Low,Nurture,137388.01,2,0,33,Spain
+15690153,0.083,Low,Nurture,116121.84,2,1,37,France
+15578878,0.083,Low,Nurture,139528.23,1,1,30,Spain
+15775293,0.083,Low,Nurture,143292.95,1,0,34,France
+15685872,0.082,Low,Nurture,146652.01,1,1,29,France
+15615140,0.082,Low,Nurture,111168.97,1,1,36,France
+15755648,0.082,Low,Nurture,98373.26,1,0,21,France
+15581551,0.082,Low,Nurture,132838.07,1,1,41,Spain
+15602979,0.081,Low,Nurture,135536.5,1,0,29,France
+15589805,0.081,Low,Nurture,139810.34,1,1,34,France
+15705707,0.081,Low,Nurture,138296.94,2,0,29,Spain
+15702789,0.081,Low,Nurture,175214.71,1,1,32,Germany
+15716781,0.081,Low,Nurture,171922.72,1,1,24,France
+15599272,0.081,Low,Nurture,151844.64,1,1,36,France
+15653222,0.08,Low,Nurture,131938.92,2,1,32,Germany
+15696826,0.08,Low,Nurture,104001.38,1,1,32,France
+15633274,0.08,Low,Nurture,160515.37,1,0,34,France
+15793803,0.08,Low,Nurture,112572.39,1,0,34,France
+15764409,0.079,Low,Nurture,108286.5,1,1,37,France
+15810075,0.079,Low,Nurture,130694.89,2,1,39,France
+15762937,0.079,Low,Nurture,140348.56,2,1,32,Germany
+15763895,0.079,Low,Nurture,178011.5,2,0,32,France
+15808851,0.079,Low,Nurture,105609.17,1,1,75,Germany
+15639368,0.079,Low,Nurture,110942.9,1,0,25,France
+15737310,0.078,Low,Nurture,130206.28,1,0,29,France
+15744622,0.078,Low,Nurture,116358.0,1,0,32,France
+15776096,0.078,Low,Nurture,161572.24,1,1,34,Spain
+15600879,0.078,Low,Nurture,157780.93,2,0,36,Germany
+15566467,0.078,Low,Nurture,138171.1,2,1,32,Germany
+15666181,0.078,Low,Nurture,98064.97,1,0,33,France
+15673619,0.077,Low,Nurture,162560.32,1,0,25,France
+15654292,0.077,Low,Nurture,130368.31,2,0,33,Germany
+15694829,0.077,Low,Nurture,175454.0,1,1,32,Germany
+15794792,0.077,Low,Nurture,117989.76,1,1,31,France
+15648702,0.077,Low,Nurture,119684.88,2,1,70,Germany
+15632143,0.076,Low,Nurture,119148.55,1,0,31,France
+15703482,0.076,Low,Nurture,134260.36,2,0,34,Germany
+15716347,0.075,Low,Nurture,143625.83,2,1,37,Germany
+15761886,0.075,Low,Nurture,172381.8,1,1,36,France
+15639576,0.075,Low,Nurture,136623.19,1,0,26,France
+15596800,0.075,Low,Nurture,158456.76,1,1,33,Germany
+15628992,0.075,Low,Nurture,128647.98,2,0,32,Germany
+15768295,0.075,Low,Nurture,109564.1,1,1,34,France
+15601627,0.075,Low,Nurture,148163.57,1,0,33,France
+15792365,0.074,Low,Nurture,142051.07,2,1,44,France
+15750602,0.074,Low,Nurture,147092.65,1,0,29,France
+15679587,0.074,Low,Nurture,115897.12,1,1,34,France
+15683521,0.074,Low,Nurture,142574.71,2,0,28,Germany
+15615670,0.074,Low,Nurture,119547.46,1,1,36,France
+15697127,0.074,Low,Nurture,147674.26,1,1,31,France
+15571284,0.073,Low,Nurture,109528.16,2,1,32,Germany
+15753874,0.073,Low,Nurture,143835.47,1,1,37,France
+15696506,0.073,Low,Nurture,101352.78,1,0,27,Spain
+15701946,0.073,Low,Nurture,124314.45,1,0,34,France
+15632256,0.072,Low,Nurture,127504.57,1,0,29,France
+15812720,0.072,Low,Nurture,130110.45,2,1,37,Germany
+15572792,0.072,Low,Nurture,118989.92,1,1,35,Spain
+15626012,0.071,Low,Nurture,149879.66,1,0,26,France
+15747762,0.071,Low,Nurture,118520.41,1,0,32,France
+15694805,0.071,Low,Nurture,115024.5,1,1,35,Spain
+15699619,0.071,Low,Nurture,155978.17,1,0,31,France
+15712303,0.071,Low,Nurture,159732.02,1,1,66,France
+15605791,0.071,Low,Nurture,144287.6,2,0,29,Germany
+15750803,0.07,Low,Nurture,127992.25,1,1,30,France
+15624695,0.07,Low,Nurture,140301.72,1,1,72,Spain
+15811594,0.07,Low,Nurture,128929.88,1,1,28,Spain
+15780654,0.07,Low,Nurture,100488.92,2,1,33,Germany
+15624866,0.07,Low,Nurture,168735.74,2,0,37,Germany
+15677317,0.07,Low,Nurture,153040.03,1,1,29,France
+15742480,0.069,Low,Nurture,109949.05,2,1,36,Germany
+15643752,0.069,Low,Nurture,116160.23,1,0,25,France
+15622182,0.069,Low,Nurture,153538.13,2,0,28,Germany
+15756425,0.069,Low,Nurture,146301.31,1,0,30,France
+15799710,0.069,Low,Nurture,104960.46,1,1,37,France
+15693233,0.068,Low,Nurture,99812.88,2,1,38,Germany
+15700046,0.068,Low,Nurture,103544.88,2,0,41,France
+15659305,0.068,Low,Nurture,166133.28,1,1,19,Germany
+15738448,0.068,Low,Nurture,174330.35,2,0,25,Germany
+15705899,0.068,Low,Nurture,127510.99,1,1,35,Spain
+15610042,0.068,Low,Nurture,100267.03,1,0,33,France
+15702566,0.067,Low,Nurture,149134.46,1,1,26,Spain
+15612627,0.067,Low,Nurture,139541.58,2,0,29,Germany
+15617934,0.067,Low,Nurture,129829.59,1,1,36,France
+15743582,0.067,Low,Nurture,107375.82,1,1,27,France
+15574115,0.067,Low,Nurture,101179.23,2,1,41,Spain
+15729083,0.066,Low,Nurture,154525.7,1,1,36,France
+15678910,0.066,Low,Nurture,141441.75,1,1,30,France
+15633108,0.066,Low,Nurture,139848.17,1,0,26,France
+15704597,0.066,Low,Nurture,174571.36,1,1,33,France
+15647890,0.066,Low,Nurture,149405.18,1,1,37,France
+15815615,0.066,Low,Nurture,141952.07,1,1,36,France
+15665327,0.065,Low,Nurture,176139.5,2,0,18,France
+15692132,0.065,Low,Nurture,101060.25,1,1,22,Spain
+15728829,0.065,Low,Nurture,102983.91,1,0,18,France
+15792180,0.064,Low,Nurture,144954.75,2,0,22,Germany
+15750056,0.064,Low,Nurture,149218.39,1,1,29,France
+15774510,0.064,Low,Nurture,125169.26,1,1,31,France
+15786739,0.064,Low,Nurture,125529.55,1,1,37,France
+15639049,0.064,Low,Nurture,139395.08,1,1,31,France
+15574305,0.064,Low,Nurture,116275.12,1,1,36,France
+15730579,0.064,Low,Nurture,169445.4,1,1,68,France
+15609299,0.064,Low,Nurture,150685.79,1,0,29,France
+15720745,0.064,Low,Nurture,140197.18,1,1,24,Spain
+15631756,0.063,Low,Nurture,147813.05,2,0,35,France
+15677112,0.063,Low,Nurture,112957.26,2,0,39,France
+15662908,0.063,Low,Nurture,125903.22,2,1,38,Germany
+15660263,0.063,Low,Nurture,99799.76,2,0,40,France
+15589348,0.062,Low,Nurture,137204.77,1,1,37,Spain
+15761477,0.062,Low,Nurture,130806.42,2,0,24,Germany
+15696047,0.062,Low,Nurture,99760.84,1,1,35,France
+15662403,0.062,Low,Nurture,169089.38,2,0,32,France
+15785920,0.062,Low,Nurture,125141.24,2,1,35,Germany
+15737169,0.061,Low,Nurture,144238.7,1,1,26,Spain
+15576077,0.061,Low,Nurture,159561.93,1,1,27,France
+15643392,0.061,Low,Nurture,105239.1,1,1,31,France
+15779059,0.061,Low,Nurture,119624.54,2,1,38,France
+15793813,0.061,Low,Nurture,103688.19,1,1,36,France
+15660211,0.061,Low,Nurture,156847.29,2,0,35,Germany
+15649112,0.06,Low,Nurture,122134.4,2,1,33,Spain
+15644132,0.06,Low,Nurture,142475.87,1,1,30,France
+15594815,0.06,Low,Nurture,174790.15,1,1,35,France
+15627251,0.059,Low,Nurture,134007.9,1,1,34,France
+15741728,0.059,Low,Nurture,135216.8,1,1,36,Spain
+15572956,0.059,Low,Nurture,115350.63,1,1,36,France
+15775082,0.059,Low,Nurture,129776.72,2,1,42,France
+15800805,0.059,Low,Nurture,140931.82,1,1,31,France
+15716324,0.059,Low,Nurture,143672.9,1,1,23,France
+15753549,0.059,Low,Nurture,157848.53,1,0,25,France
+15680855,0.059,Low,Nurture,145731.83,1,1,33,France
+15633612,0.058,Low,Nurture,172646.82,1,1,28,France
+15757541,0.058,Low,Nurture,151772.63,2,0,33,France
+15717328,0.058,Low,Nurture,132446.08,2,0,37,France
+15631709,0.058,Low,Nurture,101675.22,2,0,31,Spain
+15759298,0.058,Low,Nurture,134169.62,1,1,27,Spain
+15741417,0.058,Low,Nurture,119656.45,2,1,35,Spain
+15566295,0.057,Low,Nurture,138053.79,2,0,33,France
+15700511,0.057,Low,Nurture,176702.36,2,1,42,Germany
+15667971,0.057,Low,Nurture,102143.93,2,1,34,Germany
+15778884,0.057,Low,Nurture,154763.21,2,1,38,France
+15714689,0.057,Low,Nurture,97541.24,1,1,29,Spain
+15587394,0.057,Low,Nurture,140133.08,2,0,39,France
+15757897,0.056,Low,Nurture,104258.8,1,1,26,France
+15635097,0.056,Low,Nurture,188976.89,2,1,39,Germany
+15656707,0.056,Low,Nurture,123200.78,1,1,21,Spain
+15735025,0.056,Low,Nurture,175534.78,2,1,37,Spain
+15569451,0.055,Low,Nurture,101257.16,1,1,35,France
+15734886,0.055,Low,Nurture,123971.51,2,0,34,France
+15762392,0.055,Low,Nurture,113257.2,1,1,30,Spain
+15601045,0.055,Low,Nurture,163708.58,2,0,37,Spain
+15733111,0.055,Low,Nurture,124179.3,1,1,32,Spain
+15795963,0.055,Low,Nurture,129895.19,1,1,34,France
+15731148,0.055,Low,Nurture,108477.49,1,1,33,France
+15806447,0.054,Low,Nurture,106683.52,2,1,32,Germany
+15665064,0.054,Low,Nurture,158351.02,2,0,36,France
+15658360,0.054,Low,Nurture,122929.42,2,0,35,Spain
+15680001,0.053,Low,Nurture,111835.94,2,0,38,France
+15637366,0.053,Low,Nurture,114268.85,2,1,25,Germany
+15723064,0.053,Low,Nurture,165149.13,2,0,24,Spain
+15626044,0.053,Low,Nurture,125155.83,2,1,28,Germany
+15810660,0.052,Low,Nurture,120875.23,2,1,34,Germany
+15779207,0.051,Low,Nurture,125495.64,2,1,30,Germany
+15754267,0.051,Low,Nurture,108805.42,2,1,31,Germany
+15781987,0.051,Low,Nurture,112494.99,1,1,31,France
+15635256,0.051,Low,Nurture,117687.35,1,1,31,France
+15674573,0.051,Low,Nurture,121172.97,1,1,25,France
+15603743,0.051,Low,Nurture,112070.44,1,1,28,France
+15585388,0.05,Low,Nurture,125189.75,2,1,31,Germany
+15704081,0.05,Low,Nurture,130682.11,2,1,30,Germany
+15694395,0.05,Low,Nurture,138740.24,2,0,29,France
+15800412,0.05,Low,Nurture,146780.52,2,1,35,Germany
+15797822,0.05,Low,Nurture,109137.12,1,1,28,France
+15680405,0.05,Low,Nurture,168001.34,2,1,40,France
+15654222,0.05,Low,Nurture,145396.49,1,1,30,Spain
+15707110,0.049,Low,Nurture,170890.05,2,0,28,Germany
+15696539,0.049,Low,Nurture,105627.95,1,1,21,France
+15780770,0.049,Low,Nurture,145056.59,1,1,31,France
+15678572,0.049,Low,Nurture,99842.5,2,0,38,Spain
+15804211,0.049,Low,Nurture,155423.17,1,1,36,France
+15704315,0.049,Low,Nurture,163757.06,1,1,34,France
+15773456,0.048,Low,Nurture,145747.67,2,1,36,Germany
+15778915,0.048,Low,Nurture,128551.36,2,1,32,France
+15610753,0.048,Low,Nurture,104367.5,1,1,28,France
+15810454,0.048,Low,Nurture,147307.91,1,1,32,France
+15692744,0.048,Low,Nurture,152169.12,2,0,36,France
+15600781,0.048,Low,Nurture,185173.81,2,0,34,Germany
+15743193,0.047,Low,Nurture,117271.8,2,0,37,France
+15743673,0.047,Low,Nurture,113873.22,1,1,27,Spain
+15627848,0.047,Low,Nurture,109346.13,2,0,38,France
+15738411,0.047,Low,Nurture,104498.79,1,1,34,France
+15812750,0.047,Low,Nurture,147360.0,1,1,24,France
+15747014,0.047,Low,Nurture,105245.34,1,1,28,France
+15654878,0.047,Low,Nurture,117199.8,1,1,29,France
+15685500,0.046,Low,Nurture,152400.51,2,0,26,Germany
+15766906,0.046,Low,Nurture,132116.13,2,0,25,France
+15805463,0.046,Low,Nurture,105163.88,2,1,32,Germany
+15724099,0.046,Low,Nurture,166257.96,1,1,26,France
+15720110,0.046,Low,Nurture,117265.21,1,1,32,France
+15770091,0.046,Low,Nurture,160858.13,2,0,28,Germany
+15813681,0.046,Low,Nurture,120135.55,2,1,24,Germany
+15700383,0.046,Low,Nurture,115651.6,2,1,35,France
+15636478,0.045,Low,Nurture,136658.61,1,1,31,France
+15589437,0.045,Low,Nurture,156815.71,1,1,26,France
+15664734,0.045,Low,Nurture,108244.82,2,1,25,Germany
+15639322,0.045,Low,Nurture,137847.41,2,0,33,Spain
+15665521,0.045,Low,Nurture,111183.53,2,1,18,Germany
+15572801,0.045,Low,Nurture,139393.19,2,0,34,Spain
+15640491,0.044,Low,Nurture,147493.7,2,0,33,France
+15762198,0.044,Low,Nurture,103818.43,1,1,34,France
+15707505,0.044,Low,Nurture,125927.51,2,0,31,Spain
+15612193,0.044,Low,Nurture,115545.33,2,0,29,Spain
+15571873,0.044,Low,Nurture,107065.31,1,1,24,France
+15651020,0.043,Low,Nurture,110666.42,2,0,25,France
+15611644,0.043,Low,Nurture,146329.73,1,1,73,France
+15809509,0.043,Low,Nurture,125689.29,1,1,29,France
+15662091,0.042,Low,Nurture,116099.82,1,1,21,Spain
+15659475,0.042,Low,Nurture,135703.59,2,0,33,France
+15574584,0.042,Low,Nurture,126679.69,1,1,33,France
+15770539,0.042,Low,Nurture,127187.86,1,1,30,France
+15769402,0.042,Low,Nurture,156811.74,1,1,27,France
+15685300,0.042,Low,Nurture,128993.76,2,0,35,France
+15632899,0.042,Low,Nurture,104508.77,2,0,20,Spain
+15617603,0.042,Low,Nurture,123210.56,2,1,30,Germany
+15582149,0.04,Low,Nurture,129668.43,2,1,34,Germany
+15709523,0.04,Low,Nurture,157989.21,2,1,30,Germany
+15765902,0.04,Low,Nurture,163034.82,2,1,38,Germany
+15607786,0.04,Low,Nurture,156551.63,1,1,26,France
+15705620,0.04,Low,Nurture,122453.37,2,0,34,France
+15766064,0.04,Low,Nurture,111060.05,2,0,33,France
+15567246,0.04,Low,Nurture,102630.13,2,1,32,Germany
+15724127,0.04,Low,Nurture,141581.71,2,0,26,France
+15719779,0.04,Low,Nurture,157404.02,2,0,25,Germany
+15801863,0.039,Low,Nurture,136555.01,2,1,32,France
+15672826,0.039,Low,Nurture,112536.57,2,1,32,France
+15579892,0.039,Low,Nurture,112615.86,1,1,19,Spain
+15586914,0.039,Low,Nurture,123841.49,2,0,36,France
+15592389,0.039,Low,Nurture,134603.88,1,1,27,France
+15703399,0.038,Low,Nurture,101641.14,2,1,26,France
+15591509,0.038,Low,Nurture,101583.11,2,0,36,France
+15727311,0.038,Low,Nurture,100885.93,2,1,22,France
+15684722,0.037,Low,Nurture,122952.9,2,0,34,France
+15791674,0.036,Low,Nurture,142388.61,2,1,34,France
+15693683,0.035,Low,Nurture,97086.4,2,1,29,Germany
+15801293,0.035,Low,Nurture,101278.25,2,1,27,Germany
+15789714,0.035,Low,Nurture,103000.94,1,1,21,Spain
+15809906,0.035,Low,Nurture,148853.29,2,1,26,Germany
+15775108,0.034,Low,Nurture,99325.04,2,1,34,France
+15711352,0.034,Low,Nurture,162701.65,2,1,31,France
+15715160,0.034,Low,Nurture,165536.28,2,1,36,France
+15624781,0.033,Low,Nurture,142151.75,2,1,34,France
+15603454,0.033,Low,Nurture,160454.15,2,1,28,Germany
+15626141,0.033,Low,Nurture,151510.17,2,1,26,France
+15652658,0.031,Low,Nurture,155176.83,2,1,36,France
+15781495,0.031,Low,Nurture,126362.57,2,1,22,France
+15717700,0.031,Low,Nurture,114609.55,2,1,34,Spain
+15621685,0.031,Low,Nurture,123757.52,2,0,29,France
+15671172,0.03,Low,Nurture,106012.2,2,1,23,France
+15709737,0.03,Low,Nurture,161064.64,2,1,36,France
+15599660,0.029,Low,Nurture,116229.85,2,1,36,France
+15664214,0.029,Low,Nurture,141204.65,2,0,33,France
+15567991,0.029,Low,Nurture,144880.34,2,1,31,Spain
+15574947,0.028,Low,Nurture,97786.08,2,1,36,France
+15629787,0.028,Low,Nurture,107303.72,2,0,27,France
+15782875,0.027,Low,Nurture,157274.36,2,1,33,France
+15743760,0.026,Low,Nurture,131996.66,2,1,31,France
+15790683,0.025,Low,Nurture,104077.19,2,1,36,France
+15699047,0.024,Low,Nurture,120150.39,2,1,21,France
+15659355,0.024,Low,Nurture,123912.78,2,1,32,Spain
+15714680,0.023,Low,Nurture,121206.96,1,1,78,France
+15619537,0.022,Low,Nurture,142200.19,2,1,31,France
+15572174,0.022,Low,Nurture,148874.01,2,1,29,France
+15695475,0.019,Low,Nurture,130131.08,2,1,29,France
+15781574,0.018,Low,Nurture,126534.6,1,1,76,Spain
+15810167,0.016,Low,Nurture,126273.95,1,1,75,Spain
+15634949,0.015,Low,Nurture,161434.36,2,1,74,Germany
+15653306,0.249,Low,Standard,88335.05,1,0,32,Germany
+15778604,0.249,Low,Standard,0.0,2,0,47,France
+15566139,0.247,Low,Standard,53573.18,1,0,37,France
+15793425,0.242,Low,Standard,0.0,1,1,33,Spain
+15566111,0.242,Low,Standard,0.0,1,0,39,France
+15697844,0.241,Low,Standard,0.0,1,0,32,Spain
+15748797,0.241,Low,Standard,0.0,1,0,33,Spain
+15794414,0.24,Low,Standard,92783.68,1,1,46,Spain
+15778526,0.238,Low,Standard,0.0,2,0,48,Spain
+15736778,0.238,Low,Standard,72948.58,2,1,60,Germany
+15736327,0.236,Low,Standard,68238.51,2,1,46,Germany
+15585892,0.236,Low,Standard,0.0,1,0,35,France
+15749019,0.235,Low,Standard,93796.42,2,1,45,Germany
+15654772,0.235,Low,Standard,89799.46,2,1,47,France
+15590349,0.23,Low,Standard,0.0,1,0,36,France
+15753969,0.228,Low,Standard,83888.54,1,1,45,Spain
+15788483,0.224,Low,Standard,0.0,1,0,38,Spain
+15696141,0.222,Low,Standard,0.0,1,0,31,Spain
+15576263,0.222,Low,Standard,0.0,1,0,22,France
+15676091,0.222,Low,Standard,0.0,1,1,42,France
+15718852,0.221,Low,Standard,96951.21,1,1,56,France
+15711834,0.219,Low,Standard,0.0,1,0,30,Spain
+15601030,0.218,Low,Standard,96693.66,1,1,34,Germany
+15797905,0.218,Low,Standard,0.0,2,0,48,France
+15790204,0.218,Low,Standard,0.0,1,0,22,Spain
+15791326,0.217,Low,Standard,0.0,1,0,34,France
+15748532,0.216,Low,Standard,0.0,1,1,42,Spain
+15637876,0.216,Low,Standard,77253.5,1,0,36,Germany
+15714080,0.215,Low,Standard,97001.36,2,0,40,Germany
+15628170,0.215,Low,Standard,68067.24,1,0,32,Germany
+15711181,0.214,Low,Standard,0.0,2,1,50,France
+15763704,0.214,Low,Standard,69014.49,2,0,43,Germany
+15756848,0.209,Low,Standard,0.0,1,1,42,Spain
+15628558,0.207,Low,Standard,89188.83,1,1,44,France
+15686913,0.207,Low,Standard,0.0,1,0,38,France
+15730038,0.207,Low,Standard,0.0,1,0,23,France
+15662151,0.204,Low,Standard,0.0,1,1,40,France
+15755863,0.204,Low,Standard,0.0,2,1,49,Spain
+15723217,0.204,Low,Standard,0.0,1,0,37,France
+15756535,0.201,Low,Standard,91538.51,1,1,39,Germany
+15583680,0.201,Low,Standard,0.0,1,1,41,Spain
+15736578,0.2,Low,Standard,0.0,1,1,39,France
+15690164,0.199,Low,Standard,83199.05,1,0,33,Germany
+15770255,0.198,Low,Standard,83555.58,1,0,33,Germany
+15787459,0.198,Low,Standard,88466.82,1,0,40,Spain
+15762238,0.197,Low,Standard,84745.03,2,1,44,Germany
+15675141,0.196,Low,Standard,93934.63,1,0,35,France
+15759284,0.194,Low,Standard,0.0,1,1,37,France
+15788367,0.193,Low,Standard,61691.45,1,1,44,Spain
+15585855,0.192,Low,Standard,0.0,1,1,40,France
+15636736,0.192,Low,Standard,0.0,2,1,53,France
+15751628,0.192,Low,Standard,78391.17,1,1,60,France
+15690796,0.192,Low,Standard,0.0,1,0,37,France
+15733297,0.192,Low,Standard,84764.79,1,1,38,France
+15792176,0.191,Low,Standard,92053.44,1,1,40,Spain
+15690620,0.191,Low,Standard,46323.57,1,0,39,France
+15593496,0.19,Low,Standard,91132.18,1,0,36,Spain
+15765461,0.19,Low,Standard,0.0,2,0,47,Spain
+15768124,0.189,Low,Standard,0.0,1,0,34,France
+15685245,0.188,Low,Standard,0.0,2,1,56,Spain
+15738166,0.187,Low,Standard,86546.29,1,1,39,France
+15774402,0.185,Low,Standard,0.0,1,1,36,Spain
+15698749,0.185,Low,Standard,85897.95,1,0,23,Germany
+15671334,0.185,Low,Standard,0.0,1,0,31,France
+15779809,0.184,Low,Standard,87471.63,1,1,44,France
+15705765,0.184,Low,Standard,0.0,2,0,46,Spain
+15795936,0.183,Low,Standard,0.0,2,0,50,France
+15606755,0.183,Low,Standard,0.0,2,0,46,Spain
+15619436,0.182,Low,Standard,0.0,1,0,32,France
+15701333,0.182,Low,Standard,96558.66,1,0,37,France
+15806837,0.18,Low,Standard,0.0,1,0,37,France
+15612350,0.18,Low,Standard,40915.55,1,0,31,France
+15638159,0.179,Low,Standard,86607.39,1,0,36,Spain
+15742820,0.179,Low,Standard,0.0,2,1,45,France
+15746594,0.178,Low,Standard,0.0,1,0,33,Spain
+15773512,0.176,Low,Standard,0.0,1,1,25,Spain
+15642655,0.176,Low,Standard,0.0,1,0,33,Spain
+15572022,0.174,Low,Standard,0.0,1,1,36,France
+15792107,0.174,Low,Standard,0.0,1,1,35,Spain
+15758831,0.173,Low,Standard,74896.33,1,0,39,France
+15700854,0.172,Low,Standard,0.0,1,0,35,Spain
+15572051,0.171,Low,Standard,0.0,1,1,40,France
+15799435,0.171,Low,Standard,0.0,1,0,34,Spain
+15770711,0.17,Low,Standard,90696.78,1,1,28,Germany
+15565714,0.17,Low,Standard,64430.06,2,1,47,France
+15791006,0.17,Low,Standard,58003.41,1,0,34,Germany
+15737385,0.17,Low,Standard,0.0,2,0,46,Spain
+15708003,0.169,Low,Standard,85109.21,1,0,41,Spain
+15730447,0.168,Low,Standard,0.0,2,1,49,France
+15727361,0.167,Low,Standard,0.0,2,1,51,France
+15749328,0.166,Low,Standard,0.0,2,0,45,France
+15778463,0.166,Low,Standard,95845.6,1,0,37,France
+15766047,0.164,Low,Standard,91621.69,1,1,41,France
+15598884,0.164,Low,Standard,0.0,1,1,23,Spain
+15702806,0.163,Low,Standard,0.0,1,0,24,Spain
+15708162,0.163,Low,Standard,89994.71,2,1,40,Germany
+15792328,0.161,Low,Standard,0.0,1,1,39,France
+15704657,0.16,Low,Standard,72647.64,1,0,39,France
+15719348,0.159,Low,Standard,0.0,1,0,35,France
+15574795,0.158,Low,Standard,63093.01,1,1,38,France
+15703763,0.158,Low,Standard,85304.27,1,1,44,France
+15682533,0.157,Low,Standard,79259.99,1,1,39,France
+15713578,0.157,Low,Standard,0.0,2,1,50,France
+15661433,0.156,Low,Standard,0.0,1,0,34,France
+15795933,0.154,Low,Standard,0.0,2,1,49,France
+15720338,0.152,Low,Standard,85845.43,2,1,55,Spain
+15752731,0.151,Low,Standard,0.0,1,0,30,France
+15654851,0.15,Low,Standard,92911.52,1,1,44,France
+15773447,0.149,Low,Standard,0.0,1,0,30,Spain
+15665695,0.149,Low,Standard,0.0,2,1,49,France
+15570271,0.147,Low,Standard,0.0,1,1,31,Spain
+15631339,0.147,Low,Standard,0.0,1,0,28,France
+15700424,0.147,Low,Standard,0.0,1,1,35,France
+15675983,0.147,Low,Standard,79551.12,1,1,36,France
+15669783,0.146,Low,Standard,47020.65,2,1,60,France
+15759244,0.145,Low,Standard,95368.14,2,1,44,Germany
+15609083,0.145,Low,Standard,0.0,1,0,26,France
+15615029,0.145,Low,Standard,0.0,1,1,39,Spain
+15777923,0.144,Low,Standard,0.0,2,1,45,France
+15730273,0.141,Low,Standard,0.0,1,0,27,France
+15656865,0.141,Low,Standard,78778.49,1,1,69,Germany
+15620344,0.141,Low,Standard,0.0,1,0,29,France
+15692207,0.141,Low,Standard,0.0,2,1,53,France
+15621267,0.141,Low,Standard,0.0,1,0,32,France
+15652289,0.14,Low,Standard,0.0,2,0,47,France
+15662232,0.14,Low,Standard,92616.64,2,0,42,Germany
+15718673,0.139,Low,Standard,75592.43,1,0,33,Spain
+15724876,0.137,Low,Standard,83714.41,1,1,38,France
+15629187,0.137,Low,Standard,85982.07,1,0,38,France
+15636767,0.137,Low,Standard,0.0,1,1,32,Spain
+15625713,0.136,Low,Standard,91187.9,1,1,39,Spain
+15685309,0.135,Low,Standard,0.0,1,1,35,France
+15582246,0.134,Low,Standard,0.0,2,1,45,Spain
+15596984,0.134,Low,Standard,0.0,1,1,31,France
+15679983,0.134,Low,Standard,0.0,1,0,34,France
+15714981,0.134,Low,Standard,0.0,1,1,37,France
+15683375,0.133,Low,Standard,0.0,1,1,32,France
+15696054,0.133,Low,Standard,0.0,1,1,37,France
+15809847,0.133,Low,Standard,0.0,2,0,46,France
+15623566,0.132,Low,Standard,46520.69,1,1,40,France
+15660535,0.132,Low,Standard,0.0,2,1,47,France
+15807239,0.132,Low,Standard,93920.47,1,0,34,France
+15687270,0.131,Low,Standard,0.0,2,1,61,Spain
+15611318,0.131,Low,Standard,51690.89,1,0,33,Spain
+15734970,0.131,Low,Standard,86824.09,1,0,38,Spain
+15766734,0.13,Low,Standard,0.0,1,0,31,France
+15677387,0.13,Low,Standard,76692.22,1,1,33,Germany
+15568326,0.13,Low,Standard,0.0,2,0,44,France
+15675320,0.129,Low,Standard,93499.82,2,0,40,Spain
+15733247,0.128,Low,Standard,0.0,1,0,33,France
+15617518,0.128,Low,Standard,89409.95,1,1,36,Germany
+15668081,0.127,Low,Standard,0.0,2,1,50,Spain
+15638231,0.126,Low,Standard,0.0,2,1,62,Spain
+15661330,0.126,Low,Standard,0.0,1,1,37,France
+15754649,0.125,Low,Standard,0.0,2,1,57,Spain
+15649239,0.125,Low,Standard,0.0,2,0,46,Spain
+15617252,0.125,Low,Standard,87347.7,1,0,33,France
+15734999,0.123,Low,Standard,85996.19,1,0,36,Spain
+15721835,0.123,Low,Standard,0.0,1,0,25,Spain
+15603481,0.122,Low,Standard,0.0,2,1,55,Spain
+15696733,0.121,Low,Standard,0.0,1,0,29,France
+15654211,0.121,Low,Standard,0.0,1,1,27,Spain
+15746726,0.12,Low,Standard,78398.69,1,0,31,Germany
+15624424,0.12,Low,Standard,0.0,2,1,49,Spain
+15625675,0.119,Low,Standard,67087.69,1,0,36,France
+15718454,0.119,Low,Standard,0.0,2,0,44,Spain
+15766649,0.116,Low,Standard,89416.99,1,0,38,France
+15756333,0.116,Low,Standard,0.0,2,1,55,France
+15727915,0.115,Low,Standard,83543.37,1,0,36,France
+15580560,0.115,Low,Standard,0.0,1,1,73,France
+15765982,0.115,Low,Standard,74135.85,1,1,41,France
+15599433,0.115,Low,Standard,58641.43,1,1,35,Germany
+15813034,0.114,Low,Standard,62276.99,1,1,38,Spain
+15732943,0.114,Low,Standard,77967.5,1,0,36,Spain
+15641009,0.114,Low,Standard,84496.71,1,0,37,France
+15679622,0.112,Low,Standard,0.0,1,1,35,France
+15794841,0.11,Low,Standard,89750.21,1,0,19,Spain
+15807961,0.109,Low,Standard,0.0,1,0,25,France
+15781589,0.109,Low,Standard,0.0,2,1,52,Spain
+15589019,0.108,Low,Standard,92855.02,1,1,33,Spain
+15607178,0.106,Low,Standard,54901.01,1,1,38,Germany
+15761854,0.106,Low,Standard,0.0,1,1,24,France
+15613102,0.105,Low,Standard,57530.06,1,1,31,France
+15640268,0.105,Low,Standard,0.0,1,1,71,Spain
+15690733,0.105,Low,Standard,0.0,2,0,45,Spain
+15701164,0.103,Low,Standard,90307.62,1,1,34,France
+15677052,0.102,Low,Standard,0.0,2,1,59,France
+15752953,0.102,Low,Standard,0.0,2,0,45,France
+15677217,0.102,Low,Standard,0.0,1,1,30,France
+15813422,0.102,Low,Standard,80790.74,1,0,35,Spain
+15574743,0.1,Low,Standard,0.0,1,1,29,Spain
+15662488,0.099,Low,Standard,0.0,2,0,44,France
+15776051,0.099,Low,Standard,0.0,2,1,45,France
+15682211,0.098,Low,Standard,0.0,2,1,57,France
+15771087,0.097,Low,Standard,88084.13,2,1,71,France
+15616168,0.097,Low,Standard,81905.95,1,1,35,France
+15735263,0.097,Low,Standard,51522.75,1,1,27,France
+15775153,0.096,Low,Standard,82034.0,1,0,32,Spain
+15758856,0.096,Low,Standard,0.0,2,0,45,France
+15700325,0.096,Low,Standard,92760.55,1,0,24,France
+15610781,0.095,Low,Standard,88378.6,1,0,29,France
+15685243,0.095,Low,Standard,0.0,2,1,63,France
+15643794,0.095,Low,Standard,0.0,1,1,27,Spain
+15607040,0.095,Low,Standard,88736.44,2,0,38,Spain
+15734714,0.094,Low,Standard,79715.36,1,0,29,France
+15663885,0.094,Low,Standard,0.0,1,1,32,France
+15815626,0.094,Low,Standard,68432.45,2,1,63,France
+15693382,0.093,Low,Standard,0.0,1,1,31,France
+15779738,0.093,Low,Standard,0.0,1,1,24,France
+15782418,0.093,Low,Standard,83495.11,1,1,19,Germany
+15596011,0.093,Low,Standard,0.0,1,1,34,Spain
+15628059,0.092,Low,Standard,0.0,2,1,61,France
+15628863,0.092,Low,Standard,60013.81,1,1,38,France
+15605804,0.092,Low,Standard,0.0,2,0,45,France
+15600708,0.092,Low,Standard,77826.8,1,1,34,Spain
+15690188,0.092,Low,Standard,0.0,1,1,33,France
+15712608,0.092,Low,Standard,74483.97,2,1,42,Germany
+15742009,0.091,Low,Standard,0.0,2,1,58,Spain
+15613140,0.091,Low,Standard,0.0,1,1,34,France
+15658693,0.09,Low,Standard,0.0,2,1,60,France
+15782569,0.09,Low,Standard,0.0,1,1,72,France
+15799479,0.09,Low,Standard,0.0,1,1,33,Spain
+15589969,0.089,Low,Standard,0.0,1,1,34,France
+15682528,0.089,Low,Standard,0.0,1,1,33,France
+15747960,0.089,Low,Standard,0.0,1,1,33,France
+15730137,0.088,Low,Standard,88421.81,1,0,31,France
+15654870,0.087,Low,Standard,0.0,2,1,45,France
+15621653,0.087,Low,Standard,87946.39,1,1,29,France
+15731267,0.086,Low,Standard,75263.7,1,0,37,France
+15808182,0.086,Low,Standard,92363.3,2,0,36,Spain
+15568469,0.085,Low,Standard,0.0,2,0,43,France
+15622518,0.085,Low,Standard,51116.26,1,1,26,France
+15607753,0.084,Low,Standard,70417.79,1,1,23,Spain
+15801256,0.084,Low,Standard,0.0,2,1,49,Spain
+15627365,0.084,Low,Standard,0.0,2,1,46,France
+15598493,0.084,Low,Standard,0.0,2,1,50,France
+15692002,0.083,Low,Standard,93791.38,1,1,33,France
+15733476,0.083,Low,Standard,73481.05,1,1,30,Germany
+15594556,0.083,Low,Standard,0.0,2,1,52,Spain
+15584545,0.083,Low,Standard,0.0,2,1,40,France
+15777904,0.083,Low,Standard,0.0,2,1,45,France
+15607176,0.083,Low,Standard,0.0,1,1,22,France
+15679743,0.081,Low,Standard,91301.72,1,1,33,France
+15671387,0.081,Low,Standard,89349.47,2,0,29,France
+15612139,0.081,Low,Standard,83036.05,1,1,33,France
+15661249,0.081,Low,Standard,0.0,2,1,53,France
+15796071,0.08,Low,Standard,83889.03,1,0,29,Spain
+15570908,0.08,Low,Standard,93617.07,1,1,29,Spain
+15623730,0.08,Low,Standard,0.0,1,1,34,France
+15637178,0.08,Low,Standard,0.0,2,1,45,Spain
+15609637,0.079,Low,Standard,0.0,2,1,51,France
+15566543,0.078,Low,Standard,0.0,2,0,44,Spain
+15647572,0.077,Low,Standard,54980.81,1,1,34,Spain
+15626898,0.076,Low,Standard,77599.23,1,0,30,France
+15800366,0.076,Low,Standard,0.0,1,1,29,France
+15710012,0.076,Low,Standard,0.0,2,0,44,Spain
+15653715,0.076,Low,Standard,0.0,2,1,63,France
+15795571,0.076,Low,Standard,94153.56,1,1,36,Spain
+15768120,0.076,Low,Standard,90560.48,2,0,36,Germany
+15708236,0.075,Low,Standard,91285.22,1,1,72,France
+15614215,0.075,Low,Standard,0.0,2,1,53,France
+15664227,0.074,Low,Standard,53053.76,1,1,28,Germany
+15729956,0.074,Low,Standard,80780.16,1,1,26,Spain
+15592531,0.074,Low,Standard,0.0,2,1,50,France
+15619045,0.073,Low,Standard,0.0,2,1,43,France
+15736302,0.073,Low,Standard,0.0,2,1,48,France
+15601550,0.073,Low,Standard,85768.42,1,1,36,Spain
+15682355,0.073,Low,Standard,75075.31,2,0,42,Germany
+15649858,0.073,Low,Standard,96776.49,1,1,37,Spain
+15594864,0.072,Low,Standard,81523.38,1,1,30,Germany
+15703117,0.072,Low,Standard,0.0,2,1,44,France
+15798824,0.072,Low,Standard,92674.94,2,0,38,Spain
+15809872,0.072,Low,Standard,84906.45,1,0,32,France
+15734005,0.072,Low,Standard,0.0,2,0,42,France
+15733032,0.072,Low,Standard,0.0,2,1,47,Spain
+15777614,0.071,Low,Standard,0.0,2,1,44,Spain
+15735221,0.069,Low,Standard,0.0,2,0,42,France
+15587913,0.069,Low,Standard,0.0,2,0,40,Spain
+15610147,0.069,Low,Standard,0.0,2,1,60,France
+15621021,0.069,Low,Standard,0.0,2,0,40,Spain
+15657228,0.069,Low,Standard,95829.13,2,1,37,Germany
+15567335,0.068,Low,Standard,0.0,2,1,42,France
+15738546,0.068,Low,Standard,0.0,2,1,41,Spain
+15689176,0.068,Low,Standard,0.0,2,1,46,France
+15584338,0.067,Low,Standard,0.0,2,0,40,France
+15592089,0.067,Low,Standard,0.0,2,1,43,France
+15673223,0.067,Low,Standard,0.0,2,0,44,France
+15615032,0.067,Low,Standard,0.0,2,1,46,Spain
+15626882,0.067,Low,Standard,94901.09,1,1,37,Spain
+15777893,0.067,Low,Standard,0.0,2,0,43,France
+15763874,0.065,Low,Standard,0.0,2,1,46,Spain
+15588928,0.065,Low,Standard,0.0,2,1,47,France
+15623062,0.065,Low,Standard,85089.3,1,1,24,Germany
+15654379,0.065,Low,Standard,0.0,2,1,59,Spain
+15734161,0.064,Low,Standard,0.0,2,0,43,France
+15711062,0.064,Low,Standard,86172.81,2,1,40,Germany
+15694125,0.064,Low,Standard,0.0,2,1,57,France
+15782100,0.064,Low,Standard,66483.32,1,1,22,Spain
+15672983,0.064,Low,Standard,87099.85,2,0,27,Spain
+15782608,0.063,Low,Standard,0.0,2,0,43,France
+15795878,0.063,Low,Standard,0.0,2,1,45,Spain
+15700813,0.062,Low,Standard,94049.92,2,0,25,Germany
+15697183,0.062,Low,Standard,0.0,2,0,43,Spain
+15645269,0.062,Low,Standard,0.0,2,0,42,France
+15595067,0.062,Low,Standard,0.0,2,1,40,Spain
+15627741,0.061,Low,Standard,96863.52,2,1,29,Germany
+15588535,0.061,Low,Standard,0.0,2,0,39,Spain
+15648858,0.06,Low,Standard,85225.21,1,1,27,France
+15761525,0.06,Low,Standard,96997.09,2,0,31,Spain
+15687738,0.06,Low,Standard,0.0,2,0,38,France
+15709511,0.06,Low,Standard,0.0,2,0,43,France
+15671148,0.06,Low,Standard,96341.0,2,0,33,Germany
+15700696,0.059,Low,Standard,79019.8,1,1,31,Spain
+15806332,0.059,Low,Standard,0.0,2,1,39,Spain
+15609545,0.059,Low,Standard,83442.98,1,1,29,France
+15802351,0.059,Low,Standard,90560.3,2,1,33,Germany
+15794849,0.059,Low,Standard,91560.58,2,0,22,Germany
+15636105,0.059,Low,Standard,0.0,2,1,61,Spain
+15813144,0.059,Low,Standard,92606.86,2,0,26,France
+15656901,0.058,Low,Standard,0.0,2,1,59,France
+15687218,0.058,Low,Standard,79144.34,1,1,27,France
+15573798,0.058,Low,Standard,83947.12,2,0,36,France
+15596303,0.057,Low,Standard,0.0,2,0,39,France
+15706021,0.057,Low,Standard,96645.54,2,0,34,France
+15650545,0.057,Low,Standard,71996.09,1,1,69,France
+15731760,0.057,Low,Standard,0.0,1,1,25,France
+15716728,0.056,Low,Standard,0.0,2,1,42,Spain
+15753362,0.056,Low,Standard,0.0,2,1,60,Spain
+15625126,0.056,Low,Standard,0.0,2,1,40,France
+15804610,0.056,Low,Standard,0.0,2,1,41,France
+15640667,0.055,Low,Standard,0.0,2,0,41,France
+15602909,0.055,Low,Standard,0.0,2,1,41,Spain
+15606849,0.054,Low,Standard,94920.71,1,1,27,France
+15745030,0.054,Low,Standard,79706.25,2,0,41,Germany
+15719793,0.054,Low,Standard,0.0,2,1,62,Spain
+15566380,0.054,Low,Standard,66948.67,2,1,33,Spain
+15788659,0.054,Low,Standard,0.0,2,1,46,France
+15750299,0.053,Low,Standard,68781.82,1,1,24,Spain
+15812470,0.053,Low,Standard,0.0,2,1,61,France
+15644699,0.053,Low,Standard,0.0,2,0,40,France
+15669060,0.052,Low,Standard,0.0,2,0,74,France
+15678626,0.052,Low,Standard,0.0,2,0,31,Spain
+15730448,0.052,Low,Standard,62482.95,1,1,25,Germany
+15665110,0.051,Low,Standard,79543.59,1,1,25,France
+15793366,0.051,Low,Standard,92526.15,2,1,35,Germany
+15665088,0.05,Low,Standard,0.0,2,1,42,France
+15699430,0.05,Low,Standard,0.0,2,0,35,France
+15788025,0.05,Low,Standard,0.0,2,1,38,France
+15725039,0.05,Low,Standard,71667.74,1,1,32,Spain
+15579994,0.05,Low,Standard,73112.95,1,1,23,France
+15600688,0.05,Low,Standard,0.0,2,0,39,France
+15581479,0.05,Low,Standard,83181.29,1,1,30,France
+15763218,0.049,Low,Standard,0.0,2,1,41,France
+15660688,0.049,Low,Standard,0.0,2,0,35,Spain
+15576162,0.049,Low,Standard,92199.84,1,1,32,France
+15757865,0.048,Low,Standard,0.0,2,1,62,France
+15667632,0.048,Low,Standard,0.0,2,1,42,France
+15579189,0.047,Low,Standard,0.0,2,1,42,France
+15692235,0.047,Low,Standard,0.0,2,0,38,France
+15724663,0.046,Low,Standard,0.0,2,0,36,Spain
+15615931,0.046,Low,Standard,0.0,2,1,37,France
+15646942,0.046,Low,Standard,0.0,2,0,39,Spain
+15756056,0.045,Low,Standard,0.0,2,0,28,Spain
+15768455,0.045,Low,Standard,0.0,2,1,60,France
+15715769,0.045,Low,Standard,75237.54,1,1,26,France
+15604158,0.045,Low,Standard,0.0,2,1,39,France
+15602811,0.044,Low,Standard,38848.19,2,0,38,Germany
+15638751,0.044,Low,Standard,0.0,2,0,41,Spain
+15650098,0.044,Low,Standard,0.0,2,1,40,France
+15634896,0.044,Low,Standard,0.0,2,1,39,France
+15668886,0.044,Low,Standard,0.0,2,0,38,Spain
+15665177,0.044,Low,Standard,0.0,2,1,44,France
+15757661,0.043,Low,Standard,0.0,2,0,39,France
+15767594,0.043,Low,Standard,0.0,2,1,35,France
+15811589,0.043,Low,Standard,0.0,2,0,42,Spain
+15796343,0.043,Low,Standard,82787.93,2,0,31,France
+15801062,0.043,Low,Standard,0.0,2,1,40,Spain
+15630413,0.043,Low,Standard,0.0,2,1,41,France
+15609458,0.043,Low,Standard,69413.44,1,1,30,France
+15635531,0.042,Low,Standard,0.0,2,0,30,Spain
+15800228,0.042,Low,Standard,0.0,2,1,42,Spain
+15618182,0.042,Low,Standard,0.0,2,0,38,France
+15720083,0.042,Low,Standard,0.0,2,1,42,Spain
+15803479,0.042,Low,Standard,0.0,2,1,67,France
+15718588,0.042,Low,Standard,0.0,2,0,37,France
+15574886,0.042,Low,Standard,94486.47,1,1,32,France
+15804950,0.041,Low,Standard,0.0,2,1,41,France
+15657085,0.041,Low,Standard,88980.32,1,1,23,France
+15653315,0.041,Low,Standard,0.0,2,0,35,Spain
+15661656,0.041,Low,Standard,91902.56,2,1,38,France
+15758039,0.04,Low,Standard,0.0,2,1,44,France
+15707242,0.04,Low,Standard,0.0,2,0,40,Spain
+15646374,0.04,Low,Standard,62717.84,2,1,28,Germany
+15777826,0.04,Low,Standard,94443.77,1,1,30,France
+15633064,0.04,Low,Standard,0.0,2,0,36,France
+15674000,0.04,Low,Standard,0.0,2,1,44,France
+15640377,0.04,Low,Standard,0.0,2,0,36,France
+15572626,0.04,Low,Standard,0.0,2,1,44,Spain
+15720676,0.039,Low,Standard,0.0,2,0,37,France
+15658956,0.039,Low,Standard,47869.69,2,1,40,Germany
+15576304,0.039,Low,Standard,95167.55,1,1,29,France
+15773731,0.039,Low,Standard,0.0,2,0,35,Spain
+15813590,0.039,Low,Standard,0.0,2,0,42,Spain
+15805151,0.038,Low,Standard,89558.39,2,1,31,Germany
+15762332,0.038,Low,Standard,61592.14,2,1,31,Germany
+15735549,0.038,Low,Standard,96814.46,2,1,35,Germany
+15754605,0.038,Low,Standard,0.0,2,1,39,France
+15719579,0.038,Low,Standard,84521.48,2,1,33,Germany
+15591360,0.038,Low,Standard,84607.34,2,1,33,France
+15807457,0.038,Low,Standard,0.0,2,0,36,Spain
+15727857,0.037,Low,Standard,0.0,2,0,41,Spain
+15640917,0.037,Low,Standard,0.0,2,1,43,France
+15597945,0.037,Low,Standard,0.0,2,0,32,Spain
+15654531,0.037,Low,Standard,82559.42,2,0,22,France
+15581332,0.037,Low,Standard,83173.98,2,1,30,Germany
+15674833,0.037,Low,Standard,0.0,2,0,35,France
+15684198,0.037,Low,Standard,0.0,2,1,38,France
+15667216,0.037,Low,Standard,73194.52,2,1,29,France
+15716186,0.037,Low,Standard,0.0,2,0,38,France
+15712536,0.037,Low,Standard,0.0,2,0,36,France
+15606436,0.036,Low,Standard,0.0,2,0,38,Spain
+15801699,0.036,Low,Standard,0.0,2,1,43,Spain
+15734312,0.036,Low,Standard,0.0,2,1,43,Spain
+15771856,0.036,Low,Standard,0.0,2,0,32,Spain
+15791501,0.036,Low,Standard,0.0,2,1,43,France
+15650244,0.036,Low,Standard,80895.44,2,0,29,Spain
+15714567,0.036,Low,Standard,0.0,2,0,26,Spain
+15632345,0.036,Low,Standard,0.0,2,0,35,France
+15599211,0.035,Low,Standard,0.0,2,0,40,France
+15659820,0.035,Low,Standard,0.0,2,0,34,France
+15664737,0.035,Low,Standard,0.0,2,1,38,Spain
+15571281,0.035,Low,Standard,79562.98,1,1,28,France
+15749807,0.035,Low,Standard,0.0,2,0,31,Spain
+15646161,0.035,Low,Standard,0.0,2,1,37,Spain
+15615004,0.035,Low,Standard,0.0,2,1,37,France
+15803378,0.035,Low,Standard,0.0,2,1,44,Spain
+15569503,0.035,Low,Standard,0.0,2,1,44,France
+15603323,0.035,Low,Standard,0.0,2,0,33,Spain
+15691483,0.035,Low,Standard,0.0,2,0,25,France
+15765297,0.035,Low,Standard,0.0,2,1,41,Spain
+15785488,0.035,Low,Standard,0.0,2,1,39,Spain
+15600997,0.034,Low,Standard,67495.04,2,1,32,Germany
+15613734,0.034,Low,Standard,84719.13,2,1,33,France
+15740494,0.034,Low,Standard,0.0,2,0,33,France
+15611599,0.034,Low,Standard,0.0,2,1,71,France
+15745001,0.034,Low,Standard,0.0,2,0,36,Spain
+15578788,0.034,Low,Standard,0.0,2,0,40,Spain
+15674868,0.034,Low,Standard,0.0,2,1,30,Spain
+15778157,0.034,Low,Standard,90721.52,2,0,27,Spain
+15702464,0.033,Low,Standard,0.0,2,0,34,France
+15656717,0.033,Low,Standard,0.0,2,0,30,France
+15592570,0.033,Low,Standard,0.0,2,0,23,Spain
+15585222,0.033,Low,Standard,0.0,2,1,41,France
+15572390,0.033,Low,Standard,0.0,2,0,39,Spain
+15617476,0.033,Low,Standard,0.0,2,1,30,France
+15583736,0.033,Low,Standard,81795.74,2,0,36,Germany
+15744398,0.032,Low,Standard,0.0,2,0,23,France
+15647295,0.032,Low,Standard,0.0,2,0,34,France
+15704483,0.032,Low,Standard,0.0,2,0,40,France
+15748595,0.032,Low,Standard,77556.79,2,1,29,France
+15767921,0.032,Low,Standard,0.0,2,0,41,France
+15716518,0.032,Low,Standard,0.0,2,0,27,France
+15753213,0.032,Low,Standard,0.0,2,0,34,France
+15734628,0.032,Low,Standard,0.0,2,0,35,France
+15645029,0.032,Low,Standard,0.0,2,0,33,Spain
+15672357,0.032,Low,Standard,0.0,2,0,38,Spain
+15777436,0.032,Low,Standard,0.0,2,0,31,Spain
+15722758,0.032,Low,Standard,0.0,2,0,40,France
+15726310,0.032,Low,Standard,0.0,2,0,27,Spain
+15712483,0.031,Low,Standard,0.0,2,0,28,Spain
+15656188,0.031,Low,Standard,0.0,2,1,30,Spain
+15801351,0.031,Low,Standard,0.0,2,0,40,France
+15679642,0.031,Low,Standard,0.0,2,1,44,Spain
+15774536,0.031,Low,Standard,0.0,2,0,32,France
+15814033,0.031,Low,Standard,0.0,2,0,38,Spain
+15600258,0.031,Low,Standard,0.0,2,1,43,France
+15681758,0.031,Low,Standard,0.0,2,0,25,Spain
+15789548,0.03,Low,Standard,0.0,2,1,37,France
+15734626,0.03,Low,Standard,0.0,2,1,36,Spain
+15723481,0.03,Low,Standard,0.0,2,1,42,Spain
+15791767,0.03,Low,Standard,0.0,2,0,26,France
+15753591,0.03,Low,Standard,0.0,2,0,38,France
+15641490,0.03,Low,Standard,69385.17,2,0,25,Germany
+15593683,0.03,Low,Standard,0.0,2,0,30,Spain
+15592761,0.03,Low,Standard,0.0,2,0,40,France
+15582762,0.03,Low,Standard,0.0,1,1,77,Spain
+15604732,0.03,Low,Standard,0.0,2,0,30,France
+15644796,0.029,Low,Standard,0.0,2,1,38,Spain
+15803976,0.029,Low,Standard,0.0,2,0,31,France
+15793343,0.029,Low,Standard,0.0,2,1,29,France
+15720354,0.029,Low,Standard,0.0,2,1,71,France
+15710375,0.029,Low,Standard,0.0,2,0,41,France
+15782231,0.029,Low,Standard,0.0,2,0,38,France
+15599829,0.029,Low,Standard,0.0,2,1,35,France
+15599124,0.028,Low,Standard,0.0,2,0,29,France
+15605339,0.028,Low,Standard,0.0,2,1,37,France
+15797665,0.028,Low,Standard,0.0,2,0,27,France
+15598892,0.028,Low,Standard,73070.18,2,0,30,France
+15775562,0.028,Low,Standard,0.0,2,0,33,France
+15808621,0.028,Low,Standard,76190.48,2,1,36,Germany
+15778089,0.028,Low,Standard,0.0,2,0,37,Spain
+15642099,0.028,Low,Standard,0.0,2,0,39,Spain
+15724834,0.028,Low,Standard,0.0,2,0,30,France
+15794472,0.028,Low,Standard,0.0,2,0,27,France
+15578375,0.028,Low,Standard,0.0,2,0,39,France
+15607509,0.028,Low,Standard,0.0,2,0,38,France
+15685109,0.027,Low,Standard,0.0,2,0,39,France
+15732610,0.027,Low,Standard,0.0,2,0,28,France
+15756975,0.027,Low,Standard,0.0,2,1,35,Spain
+15609176,0.027,Low,Standard,0.0,2,1,32,France
+15670496,0.027,Low,Standard,0.0,2,0,27,Spain
+15627412,0.027,Low,Standard,0.0,2,0,39,France
+15723013,0.027,Low,Standard,76656.4,2,1,28,Germany
+15790497,0.027,Low,Standard,0.0,2,0,37,Spain
+15648069,0.027,Low,Standard,0.0,2,1,36,France
+15692408,0.027,Low,Standard,0.0,2,1,35,Spain
+15654067,0.027,Low,Standard,0.0,2,0,29,Spain
+15720123,0.026,Low,Standard,0.0,2,0,37,Spain
+15638269,0.026,Low,Standard,0.0,2,1,67,France
+15574206,0.026,Low,Standard,0.0,2,1,37,France
+15729454,0.026,Low,Standard,0.0,2,0,33,France
+15621457,0.026,Low,Standard,96654.72,2,0,27,France
+15695168,0.026,Low,Standard,0.0,2,0,39,France
+15762543,0.026,Low,Standard,0.0,2,0,32,France
+15696812,0.026,Low,Standard,0.0,2,1,42,Spain
+15594915,0.026,Low,Standard,0.0,2,1,36,France
+15666252,0.026,Low,Standard,0.0,2,1,42,Spain
+15759805,0.026,Low,Standard,0.0,2,0,32,France
+15675431,0.026,Low,Standard,0.0,2,0,34,France
+15706463,0.026,Low,Standard,0.0,2,1,36,France
+15705506,0.025,Low,Standard,0.0,2,0,38,Spain
+15750929,0.025,Low,Standard,0.0,2,0,39,Spain
+15694209,0.025,Low,Standard,0.0,2,1,32,France
+15725002,0.025,Low,Standard,0.0,2,0,37,France
+15787151,0.025,Low,Standard,0.0,2,1,34,France
+15713378,0.025,Low,Standard,0.0,2,0,38,France
+15755825,0.025,Low,Standard,0.0,2,0,39,France
+15619116,0.025,Low,Standard,0.0,2,1,36,France
+15702293,0.025,Low,Standard,0.0,2,1,35,Spain
+15780628,0.025,Low,Standard,0.0,2,0,30,France
+15767598,0.025,Low,Standard,0.0,2,0,28,Spain
+15649423,0.025,Low,Standard,0.0,2,1,35,France
+15789815,0.025,Low,Standard,0.0,2,0,28,France
+15581968,0.025,Low,Standard,0.0,2,1,33,France
+15679991,0.024,Low,Standard,0.0,2,1,28,France
+15711750,0.024,Low,Standard,0.0,2,1,34,France
+15668009,0.024,Low,Standard,0.0,2,1,37,Spain
+15752912,0.024,Low,Standard,0.0,2,0,30,France
+15648032,0.024,Low,Standard,0.0,2,1,37,Spain
+15786078,0.024,Low,Standard,0.0,2,0,28,France
+15586300,0.024,Low,Standard,0.0,2,1,66,France
+15737080,0.024,Low,Standard,0.0,2,1,32,France
+15814940,0.023,Low,Standard,0.0,2,1,33,Spain
+15715667,0.023,Low,Standard,0.0,2,0,32,France
+15660385,0.023,Low,Standard,0.0,2,0,39,France
+15659949,0.023,Low,Standard,96399.31,2,0,31,France
+15569572,0.023,Low,Standard,0.0,2,1,42,France
+15591344,0.023,Low,Standard,0.0,2,1,42,Spain
+15762855,0.023,Low,Standard,0.0,2,1,23,Spain
+15729836,0.023,Low,Standard,0.0,2,0,32,Spain
+15626474,0.023,Low,Standard,0.0,2,0,31,France
+15585280,0.023,Low,Standard,0.0,2,1,36,France
+15795079,0.023,Low,Standard,0.0,2,1,67,Spain
+15653696,0.023,Low,Standard,0.0,2,0,28,France
+15579548,0.023,Low,Standard,0.0,2,0,36,Spain
+15692583,0.023,Low,Standard,0.0,2,0,32,France
+15762110,0.023,Low,Standard,0.0,2,1,37,France
+15626233,0.023,Low,Standard,0.0,2,1,32,France
+15809901,0.023,Low,Standard,0.0,2,0,36,France
+15637829,0.022,Low,Standard,0.0,2,1,34,France
+15590320,0.022,Low,Standard,0.0,2,1,66,France
+15767626,0.022,Low,Standard,0.0,2,1,42,France
+15715796,0.022,Low,Standard,0.0,2,1,37,France
+15608387,0.022,Low,Standard,0.0,2,0,29,France
+15796480,0.022,Low,Standard,0.0,2,1,31,France
+15766787,0.022,Low,Standard,0.0,2,1,35,France
+15794413,0.022,Low,Standard,0.0,2,1,32,France
+15752186,0.022,Low,Standard,0.0,2,0,27,France
+15599792,0.022,Low,Standard,0.0,2,1,26,France
+15677739,0.022,Low,Standard,0.0,2,0,36,France
+15593250,0.022,Low,Standard,0.0,2,0,29,France
+15767488,0.022,Low,Standard,0.0,2,0,36,Spain
+15710456,0.021,Low,Standard,0.0,2,0,27,France
+15640627,0.021,Low,Standard,0.0,2,0,34,Spain
+15697283,0.021,Low,Standard,0.0,2,0,23,Spain
+15639662,0.021,Low,Standard,0.0,2,0,38,France
+15767864,0.021,Low,Standard,0.0,2,0,33,France
+15734948,0.021,Low,Standard,0.0,2,0,24,Spain
+15631813,0.021,Low,Standard,0.0,2,1,39,France
+15778752,0.021,Low,Standard,86614.06,2,1,32,France
+15700965,0.021,Low,Standard,0.0,2,1,32,France
+15728564,0.021,Low,Standard,0.0,2,1,41,France
+15716041,0.021,Low,Standard,0.0,2,1,39,Spain
+15656484,0.021,Low,Standard,0.0,2,1,40,France
+15631451,0.021,Low,Standard,0.0,2,1,28,Spain
+15566594,0.021,Low,Standard,0.0,2,0,23,Spain
+15575060,0.021,Low,Standard,0.0,2,0,24,France
+15627377,0.02,Low,Standard,0.0,2,1,41,France
+15782121,0.02,Low,Standard,0.0,2,0,27,France
+15697034,0.02,Low,Standard,0.0,2,1,22,Spain
+15798666,0.02,Low,Standard,0.0,2,1,36,France
+15671514,0.02,Low,Standard,0.0,2,1,33,Spain
+15670343,0.02,Low,Standard,0.0,2,0,19,Spain
+15661349,0.02,Low,Standard,0.0,2,0,35,France
+15722404,0.02,Low,Standard,0.0,2,1,30,France
+15767894,0.02,Low,Standard,0.0,2,1,21,France
+15681509,0.02,Low,Standard,0.0,2,1,28,Spain
+15768219,0.02,Low,Standard,0.0,2,0,36,Spain
+15644212,0.02,Low,Standard,0.0,2,0,28,Spain
+15809585,0.02,Low,Standard,0.0,2,0,38,France
+15743570,0.02,Low,Standard,0.0,2,1,34,France
+15591150,0.02,Low,Standard,0.0,2,1,34,Spain
+15693543,0.02,Low,Standard,0.0,2,1,33,France
+15808780,0.02,Low,Standard,0.0,2,0,34,France
+15794297,0.02,Low,Standard,0.0,2,0,36,France
+15723153,0.02,Low,Standard,0.0,2,0,33,Spain
+15714380,0.02,Low,Standard,0.0,2,0,38,France
+15659325,0.02,Low,Standard,0.0,2,1,40,Spain
+15786249,0.02,Low,Standard,0.0,2,0,30,Spain
+15793901,0.019,Low,Standard,0.0,2,0,27,France
+15716236,0.019,Low,Standard,0.0,2,0,35,France
+15734365,0.019,Low,Standard,0.0,2,1,39,France
+15804822,0.019,Low,Standard,0.0,2,0,31,France
+15700937,0.019,Low,Standard,0.0,2,1,24,Spain
+15802009,0.019,Low,Standard,0.0,2,1,33,France
+15632850,0.019,Low,Standard,0.0,2,1,37,France
+15714493,0.019,Low,Standard,0.0,2,1,33,Spain
+15655274,0.019,Low,Standard,0.0,2,1,29,France
+15685536,0.019,Low,Standard,0.0,2,1,34,France
+15774872,0.019,Low,Standard,0.0,2,0,36,France
+15810826,0.019,Low,Standard,0.0,2,0,36,France
+15599268,0.019,Low,Standard,0.0,2,0,32,Spain
+15809838,0.019,Low,Standard,0.0,2,0,30,Spain
+15684103,0.019,Low,Standard,0.0,2,1,26,France
+15802390,0.019,Low,Standard,0.0,2,1,34,France
+15758639,0.019,Low,Standard,0.0,2,0,37,France
+15601387,0.019,Low,Standard,0.0,2,0,35,France
+15790412,0.018,Low,Standard,0.0,2,1,26,Spain
+15749540,0.018,Low,Standard,0.0,2,0,36,France
+15807473,0.018,Low,Standard,0.0,2,1,38,France
+15759290,0.018,Low,Standard,0.0,2,0,29,Spain
+15780572,0.018,Low,Standard,0.0,2,0,30,Spain
+15619238,0.018,Low,Standard,0.0,2,0,29,Spain
+15611287,0.018,Low,Standard,0.0,2,1,30,France
+15623695,0.018,Low,Standard,0.0,2,1,31,France
+15579969,0.018,Low,Standard,0.0,2,1,32,France
+15695846,0.018,Low,Standard,0.0,2,1,34,France
+15613097,0.018,Low,Standard,0.0,2,1,33,France
+15624471,0.018,Low,Standard,0.0,2,0,37,France
+15739438,0.018,Low,Standard,0.0,2,0,30,France
+15740878,0.018,Low,Standard,0.0,2,1,29,Spain
+15668679,0.018,Low,Standard,0.0,2,1,31,France
+15598275,0.018,Low,Standard,0.0,2,1,32,France
+15748882,0.018,Low,Standard,0.0,2,0,29,Spain
+15776211,0.018,Low,Standard,0.0,2,1,34,France
+15786200,0.017,Low,Standard,0.0,2,0,31,France
+15759872,0.017,Low,Standard,0.0,2,0,22,France
+15589323,0.017,Low,Standard,0.0,2,1,24,France
+15653620,0.017,Low,Standard,0.0,2,1,27,France
+15575486,0.017,Low,Standard,0.0,2,1,27,France
+15574858,0.017,Low,Standard,0.0,2,1,37,France
+15733119,0.017,Low,Standard,0.0,2,0,35,France
+15758510,0.017,Low,Standard,0.0,2,0,26,France
+15636572,0.017,Low,Standard,0.0,2,1,32,France
+15575119,0.017,Low,Standard,0.0,2,1,71,France
+15645184,0.017,Low,Standard,0.0,2,0,29,France
+15568328,0.017,Low,Standard,0.0,2,1,22,France
+15757931,0.016,Low,Standard,0.0,2,0,24,France
+15682489,0.016,Low,Standard,0.0,2,0,27,France
+15703292,0.016,Low,Standard,86270.93,2,1,26,France
+15592914,0.016,Low,Standard,0.0,2,1,29,France
+15713479,0.016,Low,Standard,0.0,2,0,35,France
+15649129,0.016,Low,Standard,0.0,2,0,32,France
+15732265,0.016,Low,Standard,0.0,2,0,33,France
+15572374,0.016,Low,Standard,0.0,2,1,36,Spain
+15585867,0.016,Low,Standard,0.0,2,1,36,Spain
+15716023,0.016,Low,Standard,0.0,2,1,31,France
+15581840,0.016,Low,Standard,0.0,2,0,33,France
+15606855,0.016,Low,Standard,0.0,2,1,26,Spain
+15682757,0.016,Low,Standard,0.0,2,0,30,France
+15677377,0.016,Low,Standard,0.0,2,1,37,Spain
+15709653,0.016,Low,Standard,0.0,2,0,32,France
+15775880,0.016,Low,Standard,0.0,2,1,30,France
+15595557,0.016,Low,Standard,0.0,2,0,22,France
+15775234,0.016,Low,Standard,0.0,2,0,24,France
+15752838,0.015,Low,Standard,0.0,2,1,38,Spain
+15726167,0.015,Low,Standard,0.0,2,1,37,France
+15783541,0.015,Low,Standard,0.0,2,1,31,France
+15637644,0.015,Low,Standard,0.0,2,1,24,France
+15798084,0.015,Low,Standard,0.0,2,0,26,France
+15717935,0.015,Low,Standard,0.0,2,1,21,France
+15726358,0.015,Low,Standard,0.0,2,0,34,France
+15596624,0.015,Low,Standard,0.0,2,1,22,France
+15607713,0.015,Low,Standard,0.0,2,1,29,Spain
+15628308,0.015,Low,Standard,0.0,2,1,24,France
+15658852,0.015,Low,Standard,0.0,2,1,38,France
+15678571,0.015,Low,Standard,0.0,2,0,21,France
+15608230,0.015,Low,Standard,0.0,2,0,23,France
+15775116,0.015,Low,Standard,0.0,2,0,31,France
+15805627,0.015,Low,Standard,0.0,2,1,37,France
+15725767,0.015,Low,Standard,0.0,2,0,23,France
+15600792,0.015,Low,Standard,0.0,2,1,29,Spain
+15769781,0.015,Low,Standard,0.0,2,1,25,Spain
+15751912,0.015,Low,Standard,0.0,2,1,36,France
+15692317,0.015,Low,Standard,0.0,2,0,30,France
+15673907,0.014,Low,Standard,0.0,2,0,20,France
+15702337,0.014,Low,Standard,0.0,2,1,37,France
+15765266,0.014,Low,Standard,0.0,2,0,32,France
+15712584,0.014,Low,Standard,0.0,2,1,33,France
+15639217,0.014,Low,Standard,0.0,2,0,34,France
+15592451,0.014,Low,Standard,0.0,2,0,32,France
+15631162,0.014,Low,Standard,0.0,2,1,32,France
+15695225,0.014,Low,Standard,0.0,2,1,38,Spain
+15737977,0.014,Low,Standard,0.0,2,1,25,France
+15641122,0.014,Low,Standard,0.0,2,0,30,France
+15688395,0.014,Low,Standard,0.0,2,0,29,France
+15648735,0.014,Low,Standard,0.0,2,1,37,France
+15580805,0.014,Low,Standard,0.0,2,0,27,France
+15622494,0.014,Low,Standard,0.0,2,0,27,France
+15751336,0.014,Low,Standard,0.0,2,1,30,Spain
+15723028,0.014,Low,Standard,0.0,2,0,33,France
+15775627,0.014,Low,Standard,0.0,2,1,35,France
+15722322,0.013,Low,Standard,0.0,2,1,78,Spain
+15580068,0.013,Low,Standard,0.0,2,1,35,Spain
+15798850,0.013,Low,Standard,0.0,2,0,32,France
+15570004,0.013,Low,Standard,0.0,2,0,31,France
+15752588,0.013,Low,Standard,0.0,2,1,36,France
+15572735,0.013,Low,Standard,0.0,2,1,27,Spain
+15715715,0.013,Low,Standard,0.0,2,1,38,Spain
+15743075,0.013,Low,Standard,0.0,2,1,35,France
+15699507,0.013,Low,Standard,0.0,2,1,25,France
+15590476,0.013,Low,Standard,0.0,2,0,28,France
+15755138,0.013,Low,Standard,0.0,2,1,32,France
+15734311,0.013,Low,Standard,0.0,2,1,27,France
+15713094,0.013,Low,Standard,0.0,2,1,25,France
+15615016,0.013,Low,Standard,0.0,2,1,33,France
+15622443,0.013,Low,Standard,0.0,2,1,31,France
+15583033,0.013,Low,Standard,0.0,2,1,20,France
+15642544,0.013,Low,Standard,0.0,2,1,34,France
+15762821,0.012,Low,Standard,0.0,2,1,33,Spain
+15742369,0.012,Low,Standard,0.0,2,1,31,Spain
+15748995,0.012,Low,Standard,0.0,2,1,30,Spain
+15709412,0.012,Low,Standard,0.0,2,1,30,Spain
+15647207,0.012,Low,Standard,0.0,2,0,26,France
+15664204,0.012,Low,Standard,0.0,2,1,29,Spain
+15598802,0.012,Low,Standard,0.0,2,1,30,Spain
+15789095,0.012,Low,Standard,0.0,2,1,30,Spain
+15706899,0.012,Low,Standard,0.0,2,1,34,France
+15672016,0.012,Low,Standard,0.0,2,1,35,France
+15690670,0.012,Low,Standard,0.0,2,1,33,France
+15704795,0.011,Low,Standard,0.0,2,1,77,France
+15575676,0.011,Low,Standard,0.0,2,1,24,France
+15578006,0.011,Low,Standard,0.0,2,1,85,France
+15718245,0.011,Low,Standard,0.0,2,1,34,France
+15716800,0.011,Low,Standard,0.0,2,1,31,France
+15697567,0.011,Low,Standard,0.0,2,1,33,France
+15724691,0.011,Low,Standard,0.0,2,1,34,France
+15634373,0.011,Low,Standard,0.0,2,1,30,France
+15782311,0.011,Low,Standard,0.0,2,1,28,France
+15667215,0.011,Low,Standard,0.0,2,1,31,France
+15626452,0.011,Low,Standard,0.0,2,1,32,Spain
+15670866,0.011,Low,Standard,0.0,2,1,31,France
+15797227,0.011,Low,Standard,0.0,2,1,28,France
+15591179,0.01,Low,Standard,0.0,2,1,30,Spain
+15615575,0.01,Low,Standard,0.0,2,1,34,France
+15684934,0.01,Low,Standard,0.0,2,1,31,France
+15764405,0.01,Low,Standard,0.0,2,1,29,France
+15764293,0.01,Low,Standard,0.0,2,1,33,France
+15689661,0.01,Low,Standard,0.0,2,1,22,France
+15707132,0.01,Low,Standard,0.0,2,1,33,France
+15720529,0.01,Low,Standard,0.0,2,1,29,France
+15793247,0.01,Low,Standard,0.0,2,1,34,France
+15649430,0.01,Low,Standard,0.0,2,1,28,France
+15651958,0.01,Low,Standard,0.0,2,1,27,France
+15738627,0.01,Low,Standard,0.0,2,1,25,France
+15761340,0.009,Low,Standard,0.0,2,1,22,France
+15645517,0.009,Low,Standard,0.0,2,1,22,Spain
+15707114,0.009,Low,Standard,0.0,2,1,30,France
+15681327,0.009,Low,Standard,0.0,2,1,30,France
+15608726,0.009,Low,Standard,0.0,2,1,24,France
+15701281,0.009,Low,Standard,0.0,2,1,27,France
+15786167,0.009,Low,Standard,0.0,2,1,20,Spain
+15786539,0.009,Low,Standard,0.0,2,1,32,France
+15730441,0.009,Low,Standard,0.0,2,1,26,France
+15605284,0.008,Low,Standard,0.0,2,1,26,France
+15748123,0.008,Low,Standard,0.0,2,1,20,France
+15568238,0.008,Low,Standard,0.0,2,1,20,Spain
+15638871,0.008,Low,Standard,80926.02,2,1,77,France
+15758372,0.007,Low,Standard,0.0,2,1,18,France
+15657779,0.007,Low,Standard,0.0,2,1,18,Spain

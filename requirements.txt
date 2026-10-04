@@ -1,0 +1,23 @@
+# Tested with Python 3.12 (TensorFlow 2.21 supports Python 3.10–3.13)
+
+# Data analysis and visualisation
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.9.1
+xgboost==3.4.1
+tensorflow==2.21.0
+shap==0.52.0
+joblib==1.6.0
+
+# Dashboard
+streamlit==1.65.0
+altair==6.3.0
+
+# Running the notebooks
+notebook==7.6.3
+ipykernel==7.4.0

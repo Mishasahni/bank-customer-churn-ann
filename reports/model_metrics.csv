@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+XGBoost,0.869,0.7866,0.4889,0.603,0.8707
+ANN (original 6-6-1),0.8625,0.775,0.457,0.575,0.8643
+"ANN (improved, early stopping)",0.864,0.8082,0.4349,0.5655,0.864
+Random Forest,0.867,0.8341,0.4324,0.5696,0.8618
+Decision Tree,0.8605,0.7783,0.4398,0.562,0.8455
+Logistic Regression,0.8075,0.617,0.1425,0.2315,0.7757
